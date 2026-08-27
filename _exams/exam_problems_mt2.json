@@ -1,0 +1,2657 @@
+{
+  "description": "CS 61A mt2 exams sorted newest first. Playlist and video links are stored per exam; every problem lists its topics.",
+  "exams": [
+    {
+      "label": "sp26-mt2",
+      "name": "Spring 2026 Midterm",
+      "playlist_links": [
+        "https://youtube.com/playlist?list=PLx38hZJ5RLZchfdc5wN16LI4fhLYuE4Vj&si="
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "Finding Errors",
+          "topics": [
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "2a",
+          "title": "Hog Revisited",
+          "topics": [
+            "GENERATORS"
+          ]
+        },
+        {
+          "number": "2b",
+          "title": "Hog Revisited",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "2c",
+          "title": "Hog Revisited",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Branching Out",
+          "topics": [
+            "RECURSION",
+            "TREES"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Teaching Mutating Lists of Hurdles",
+          "topics": [
+            "LISTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Making Pen Friends!",
+          "topics": [
+            "INHERITANCE",
+            "OBJECTS",
+            "REPRESENTATION",
+            "SEQUENCES"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "When The Last Leaf Falls...",
+          "topics": [
+            "ITERATORS",
+            "TREES"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "The Power of Friendship",
+          "topics": [
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "8",
+          "title": "Linking A List",
+          "topics": [
+            "LINKED_LISTS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "9",
+          "title": "Off To The Races",
+          "topics": [
+            "EFFICIENCY"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa25-mt2",
+      "name": "Fall 2025 Midterm 2",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLx38hZJ5RLZdHLeNazq9I_9fq7RNi88_3"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "What Would Python Display?",
+          "topics": [
+            "EFFICIENCY",
+            "GENERATORS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "ITERATORS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "That's a Wrap",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LAMBDAS",
+            "LISTS",
+            "MUTABILITY"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Inclusive",
+          "topics": [
+            "OBJECTS",
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "Exclusive",
+          "topics": [
+            "CONTROL",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "Exclusive",
+          "topics": [
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Pizza Parlor",
+          "topics": [
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "6a",
+          "title": "Two Topping Pizzas",
+          "topics": [
+            "CONTROL",
+            "SEQUENCES"
+          ]
+        },
+        {
+          "number": "6b",
+          "title": "Two Topping Pizzas",
+          "topics": [
+            "CONTROL",
+            "SEQUENCES"
+          ]
+        },
+        {
+          "number": "6c",
+          "title": "Two Topping Pizzas",
+          "topics": [
+            "CONTROL",
+            "RECURSION",
+            "SEQUENCES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "6d",
+          "title": "Two Topping Pizzas",
+          "topics": [
+            "CONTROL",
+            "LAMBDAS",
+            "RECURSION"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "su25-mt2",
+      "name": "Summer 2025 Midterm",
+      "playlist_links": [
+        "https://youtube.com/playlist?list=PLx38hZJ5RLZc3wjV4Ju3_VquLZOQD5A5j"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "What Would Python Display?",
+          "topics": [
+            "LISTS",
+            "MUTABILITY",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Surf's Up!",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "3a",
+          "title": "Python in python?",
+          "topics": [
+            "CONTROL"
+          ]
+        },
+        {
+          "number": "3b",
+          "title": "Python in python?",
+          "topics": [
+            "SEQUENCES"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "Valid Number",
+          "topics": [
+            "CONTROL",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "Valid Number",
+          "topics": [
+            "CONTROL",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "5a",
+          "title": "Family Trees",
+          "topics": [
+            "TREES"
+          ]
+        },
+        {
+          "number": "5b",
+          "title": "Family Trees",
+          "topics": [
+            "TREES"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sp25-mt2",
+      "name": "Spring 2025 Midterm 2",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLx38hZJ5RLZdplR_nWuFysBTGb6vS1lPf"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "What Would Python Display?",
+          "topics": [
+            "GENERATORS",
+            "ITERATORS",
+            "LISTS",
+            "RECURSION",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2a",
+          "title": "This or That",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LISTS",
+            "MUTABILITY"
+          ]
+        },
+        {
+          "number": "2b",
+          "title": "This or That",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LISTS",
+            "MUTABILITY"
+          ]
+        },
+        {
+          "number": "2c",
+          "title": "This or That",
+          "topics": [
+            "EFFICIENCY",
+            "LISTS",
+            "MUTABILITY"
+          ]
+        },
+        {
+          "number": "3a",
+          "title": "Berkeley Time",
+          "topics": [
+            "GENERATORS",
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "3b",
+          "title": "Berkeley Time",
+          "topics": [
+            "GENERATORS",
+            "INHERITANCE",
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "DeepSeek",
+          "topics": [
+            "LISTS",
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "DeepSeek",
+          "topics": [
+            "SEQUENCES",
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "5a",
+          "title": "Just Add and Multiply",
+          "topics": [
+            "LINKED_LISTS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "5b",
+          "title": "Just Add and Multiply",
+          "topics": [
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "5c",
+          "title": "Just Add and Multiply",
+          "topics": [
+            "LAMBDAS",
+            "LISTS",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "5d",
+          "title": "Just Add and Multiply",
+          "topics": [
+            "LISTS",
+            "TREE_RECURSION"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa24-mt2",
+      "name": "Fall 2024 Midterm 2",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLx38hZJ5RLZdLRCSh96VduetN63u1RzEC"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "What Would Python Display?",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "RECURSION",
+            "SEQUENCES",
+            "TREES",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2a",
+          "title": "Pizza by the Slice",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LISTS",
+            "MUTABILITY"
+          ]
+        },
+        {
+          "number": "2b",
+          "title": "Pizza by the Slice",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LISTS",
+            "MUTABILITY"
+          ]
+        },
+        {
+          "number": "2c",
+          "title": "Pizza by the Slice",
+          "topics": [
+            "EFFICIENCY",
+            "ENVIRONMENT_DIAGRAMS"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "CS 61A Software Store",
+          "topics": [
+            "LISTS",
+            "OBJECTS",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "Almost a Perfect Question",
+          "topics": [
+            "CONTROL",
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "Almost a Perfect Question",
+          "topics": [
+            "GENERATORS",
+            "LISTS",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "4c",
+          "title": "Almost a Perfect Question",
+          "topics": [
+            "GENERATORS",
+            "LAMBDAS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "5a",
+          "title": "How Long is this Exam",
+          "topics": [
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "5b",
+          "title": "How Long is this Exam",
+          "topics": [
+            "LINKED_LISTS",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "Nice Path!",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS",
+            "RECURSION",
+            "TREES"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "su24-mt2",
+      "name": "Summer 2024 Midterm",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLx38hZJ5RLZedovS1G74IN5m5R9RVW943"
+      ],
+      "problems": [
+        {
+          "number": "2",
+          "title": "Conveyor Belt",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LISTS",
+            "MUTABILITY"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Tree Sum",
+          "topics": [
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "Add Consecutive",
+          "topics": [
+            "CONTROL",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "Add Consecutive",
+          "topics": [
+            "CONTROL",
+            "LISTS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Combine Tree",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "Multi Compose",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS",
+            "LISTS",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "7a",
+          "title": "Memoized Fibonacci Tree",
+          "topics": [
+            "TREES"
+          ]
+        },
+        {
+          "number": "7b",
+          "title": "Memoized Fibonacci Tree",
+          "topics": [
+            "TREES"
+          ]
+        },
+        {
+          "number": "7c",
+          "title": "Memoized Fibonacci Tree",
+          "topics": [
+            "TREES"
+          ]
+        },
+        {
+          "number": "7d",
+          "title": "Memoized Fibonacci Tree",
+          "topics": [
+            "TREES"
+          ]
+        },
+        {
+          "number": "7e",
+          "title": "Memoized Fibonacci Tree",
+          "topics": [
+            "EFFICIENCY"
+          ]
+        },
+        {
+          "number": "11.a.i",
+          "title": "What Would Python Display?",
+          "topics": [
+            "GENERATORS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "11.a.ii",
+          "title": "What Would Python Display?",
+          "topics": [
+            "GENERATORS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "11.a.iii",
+          "title": "What Would Python Display?",
+          "topics": [
+            "GENERATORS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "11.a.iv",
+          "title": "What Would Python Display?",
+          "topics": [
+            "GENERATORS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "11.b.i",
+          "title": "What Would Python Display?",
+          "topics": [
+            "GENERATORS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS",
+            "LISTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "11.b.ii",
+          "title": "What Would Python Display?",
+          "topics": [
+            "GENERATORS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "ITERATORS",
+            "LAMBDAS",
+            "LISTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "11.b.iii",
+          "title": "What Would Python Display?",
+          "topics": [
+            "GENERATORS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS",
+            "LISTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "11.b.iv",
+          "title": "What Would Python Display?",
+          "topics": [
+            "GENERATORS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "ITERATORS",
+            "LAMBDAS",
+            "LISTS",
+            "WWPD"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sp24-mt2",
+      "name": "Spring 2024 Midterm 2",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLx38hZJ5RLZfbmnkOylwvn2E3G6mhAIYj"
+      ],
+      "problems": [
+        {
+          "number": "1a",
+          "title": "What Would Python Display?",
+          "topics": [
+            "LINKED_LISTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "1b",
+          "title": "What Would Python Display?",
+          "topics": [
+            "LINKED_LISTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "1c",
+          "title": "What Would Python Display?",
+          "topics": [
+            "GENERATORS",
+            "LINKED_LISTS",
+            "LISTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "1d",
+          "title": "What Would Python Display?",
+          "topics": [
+            "EFFICIENCY",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Spin Cycle",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Fearless",
+          "topics": [
+            "LAMBDAS",
+            "OBJECTS",
+            "SEQUENCES"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "Who's counting?",
+          "topics": [
+            "LISTS"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "Who's counting?",
+          "topics": [
+            "LISTS"
+          ]
+        },
+        {
+          "number": "4c",
+          "title": "Who's counting?",
+          "topics": [
+            "LISTS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "4d",
+          "title": "Who's counting?",
+          "topics": [
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "4e",
+          "title": "Who's counting?",
+          "topics": [
+            "GENERATORS",
+            "LISTS",
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa23-mt2",
+      "name": "Fall 2023 Midterm 2",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLx38hZJ5RLZdFxYu7LlJI8DLhfxpqnSkO"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "What Would Python Display?",
+          "topics": [
+            "ITERATORS",
+            "LISTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Making a List, Checking it Twice",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "24-Hour Library",
+          "topics": [
+            "LISTS",
+            "MUTABILITY",
+            "OBJECTS",
+            "REPRESENTATION"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "A Perfect Question",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "A Perfect Question",
+          "topics": [
+            "GENERATORS",
+            "LISTS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Only Paths",
+          "topics": [
+            "LAMBDAS",
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "6a",
+          "title": "After Party",
+          "topics": [
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "6b",
+          "title": "After Party",
+          "topics": [
+            "LAMBDAS",
+            "LINKED_LISTS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "6c",
+          "title": "After Party",
+          "topics": [
+            "EFFICIENCY"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "su23-mt2",
+      "name": "Summer 2023 Midterm",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLx38hZJ5RLZdlHuR8kj49U1kwZHtv82Wh"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "What Would Python Display?",
+          "topics": [
+            "ITERATORS",
+            "LAMBDAS",
+            "LISTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "The Fellowship of the List",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LISTS",
+            "MUTABILITY"
+          ]
+        },
+        {
+          "number": "3a",
+          "title": "Digit Widgets",
+          "topics": [
+            "CONTROL",
+            "HIGHER_ORDER_FUNCTIONS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "3b",
+          "title": "Digit Widgets",
+          "topics": [
+            "CONTROL",
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "3c",
+          "title": "Digit Widgets",
+          "topics": [
+            "CONTROL",
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Goatda",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "5a",
+          "title": "Sweetness Overload",
+          "topics": [
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "5b",
+          "title": "Sweetness Overload",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "5c",
+          "title": "Sweetness Overload",
+          "topics": [
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "6a",
+          "title": "All Treeils Lead to Rome",
+          "topics": [
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "6b",
+          "title": "All Treeils Lead to Rome",
+          "topics": [
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "6c",
+          "title": "All Treeils Lead to Rome",
+          "topics": [
+            "DATA_ABSTRACTION",
+            "HIGHER_ORDER_FUNCTIONS",
+            "TREE_RECURSION"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sp23-mt2",
+      "name": "Spring 2023 Midterm 2",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLx38hZJ5RLZenSsdPn9cE8-OOM3nGcg5V"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "What Would Python Display?",
+          "topics": [
+            "LISTS",
+            "MUTABILITY",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2b",
+          "title": "Letter Grade",
+          "topics": [
+            "OBJECTS",
+            "REPRESENTATION"
+          ]
+        },
+        {
+          "number": "3b",
+          "title": "Prefixes",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Tree Trimming",
+          "topics": [
+            "MUTABILITY",
+            "MUTABLE_TREES",
+            "TREES"
+          ]
+        },
+        {
+          "number": "5a",
+          "title": "Parking",
+          "topics": [
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "5b",
+          "title": "Parking",
+          "topics": [
+            "GENERATORS"
+          ]
+        },
+        {
+          "number": "22.a.i",
+          "title": "Letter Grade",
+          "topics": [
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "22.a.ii",
+          "title": "Letter Grade",
+          "topics": [
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "22.a.iii",
+          "title": "Letter Grade",
+          "topics": [
+            "OBJECTS",
+            "REPRESENTATION"
+          ]
+        },
+        {
+          "number": "33.a.i",
+          "title": "Prefixes",
+          "topics": [
+            "LISTS"
+          ]
+        },
+        {
+          "number": "33.a.ii",
+          "title": "Prefixes",
+          "topics": [
+            "LISTS"
+          ]
+        },
+        {
+          "number": "33.a.iii",
+          "title": "Prefixes",
+          "topics": [
+            "EFFICIENCY",
+            "LISTS"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa22-mt2",
+      "name": "Fall 2022 Midterm 2",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLx38hZJ5RLZcAajfg4WZT-DyuhXMlR_hJ"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "What Would Python Python?",
+          "topics": [
+            "INHERITANCE",
+            "LAMBDAS",
+            "LISTS",
+            "OBJECTS",
+            "REPRESENTATION",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Environmental Disaster",
+          "topics": [
+            "CONTROL",
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LISTS",
+            "SEQUENCES"
+          ]
+        },
+        {
+          "number": "3a",
+          "title": "Hog Revisited",
+          "topics": [
+            "GENERATORS"
+          ]
+        },
+        {
+          "number": "3b",
+          "title": "Hog Revisited",
+          "topics": [
+            "ITERATORS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "The Lambdanean Hydra",
+          "topics": [
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "The Lambdanean Hydra",
+          "topics": [
+            "RECURSION",
+            "TREES"
+          ]
+        },
+        {
+          "number": "5a",
+          "title": "Aim for 100",
+          "topics": [
+            "LISTS",
+            "SEQUENCES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "5b",
+          "title": "Aim for 100",
+          "topics": [
+            "EFFICIENCY"
+          ]
+        },
+        {
+          "number": "6a",
+          "title": "Point A to Point B",
+          "topics": [
+            "LISTS",
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "6b",
+          "title": "Point A to Point B",
+          "topics": [
+            "CONTROL",
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Deforestation",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "ITERATORS",
+            "LAMBDAS",
+            "MUTABLE_TREES",
+            "OBJECTS",
+            "TREE_RECURSION"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "su22-mt2",
+      "name": "Summer 2022 Midterm",
+      "playlist_links": [
+        "https://youtube.com/playlist?list=PLx38hZJ5RLZfeW1X624X1e84omx8jW8AO"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "What Would Python Display?",
+          "topics": [
+            "CONTROL",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS",
+            "RECURSION",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Minions",
+          "topics": [
+            "CONTROL",
+            "ENVIRONMENT_DIAGRAMS",
+            "LAMBDAS",
+            "LISTS",
+            "SEQUENCES"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Bite-Size HOFs",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Least Resistance",
+          "topics": [
+            "CONTROL",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Conditional Curry",
+          "topics": [
+            "CONTROL",
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "6a",
+          "title": "Blob Sum",
+          "topics": [
+            "CONTROL",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "6b",
+          "title": "Blob Sum",
+          "topics": [
+            "CONTROL",
+            "HIGHER_ORDER_FUNCTIONS",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Even Out",
+          "topics": [
+            "CONTROL",
+            "LISTS",
+            "MUTABILITY",
+            "SEQUENCES"
+          ]
+        },
+        {
+          "number": "8a",
+          "title": "Boba Cafe OOPerations",
+          "topics": [
+            "INHERITANCE",
+            "LISTS",
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "8b",
+          "title": "Boba Cafe OOPerations",
+          "topics": [
+            "INHERITANCE",
+            "LISTS",
+            "OBJECTS",
+            "SEQUENCES"
+          ]
+        },
+        {
+          "number": "9",
+          "title": "Extra Credit",
+          "topics": [
+            "UNTAGGED"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sp22-mt2",
+      "name": "Spring 2022 Midterm 2",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLx38hZJ5RLZeGQnUK0owWz4G1YE6gfogG"
+      ],
+      "problems": [
+        {
+          "number": "1a",
+          "title": "A Bug's Life",
+          "topics": [
+            "GENERATORS",
+            "LAMBDAS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "1b",
+          "title": "A Bug's Life",
+          "topics": [
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "1c",
+          "title": "A Bug's Life",
+          "topics": [
+            "LISTS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "2a",
+          "title": "What Would Python Display?",
+          "topics": [
+            "LISTS",
+            "SEQUENCES",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2b",
+          "title": "What Would Python Display?",
+          "topics": [
+            "LISTS",
+            "SEQUENCES",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2c",
+          "title": "What Would Python Display?",
+          "topics": [
+            "ITERATORS",
+            "LISTS",
+            "SEQUENCES",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2d",
+          "title": "What Would Python Display?",
+          "topics": [
+            "LISTS",
+            "SEQUENCES",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "A Different Kind of Dictionary",
+          "topics": [
+            "OBJECTS",
+            "RECURSION",
+            "REPRESENTATION"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Beadazzled",
+          "topics": [
+            "LINKED_LISTS",
+            "LISTS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "File Tree-tionaries",
+          "topics": [
+            "SEQUENCES",
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "6a",
+          "title": "Mapping Time and Space",
+          "topics": [
+            "EFFICIENCY",
+            "LAMBDAS",
+            "LINKED_LISTS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "6b",
+          "title": "Mapping Time and Space",
+          "topics": [
+            "EFFICIENCY",
+            "LAMBDAS",
+            "LINKED_LISTS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "6c",
+          "title": "Mapping Time and Space",
+          "topics": [
+            "EFFICIENCY",
+            "LAMBDAS",
+            "LINKED_LISTS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Tulip Mania",
+          "topics": [
+            "LISTS",
+            "MUTABLE_TREES",
+            "RECURSION",
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "8a",
+          "title": "CS 61A Presents The Game of Hoop.",
+          "topics": [
+            "CONTROL",
+            "LISTS",
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "8b",
+          "title": "CS 61A Presents The Game of Hoop.",
+          "topics": [
+            "GENERATORS",
+            "OBJECTS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "8c",
+          "title": "CS 61A Presents The Game of Hoop.",
+          "topics": [
+            "LISTS",
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "8d",
+          "title": "CS 61A Presents The Game of Hoop.",
+          "topics": [
+            "CONTROL",
+            "LISTS",
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "8e",
+          "title": "CS 61A Presents The Game of Hoop.",
+          "topics": [
+            "GENERATORS",
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "8f",
+          "title": "CS 61A Presents The Game of Hoop.",
+          "topics": [
+            "INHERITANCE",
+            "LISTS",
+            "OBJECTS"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa21-mt2",
+      "name": "Fall 2021 Midterm 2",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLx38hZJ5RLZcwZ1N5xCL2y48ca2U9dbw5"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "Hawkeye",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Doctor Change",
+          "topics": [
+            "LISTS",
+            "RECURSION",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Shang-Chi",
+          "topics": [
+            "GENERATORS",
+            "ITERATORS",
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Thanos",
+          "topics": [
+            "EFFICIENCY",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Groot",
+          "topics": [
+            "TREES"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "su21-mt2",
+      "name": "Summer 2021 Midterm",
+      "problems": [
+        {
+          "number": "1",
+          "title": "Breath of the Environment",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS"
+          ]
+        },
+        {
+          "number": "2a",
+          "title": "LIST-en Up!",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LISTS",
+            "SELF_REFERENCE"
+          ]
+        },
+        {
+          "number": "2b",
+          "title": "LIST-en Up!",
+          "topics": [
+            "LISTS",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Growing Up",
+          "topics": [
+            "GROWTH"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Maximum Exponen-tree-ation",
+          "topics": [
+            "DATA_ABSTRACTION",
+            "HIGHER_ORDER_FUNCTIONS",
+            "TREES"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "You've Seen it All",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "RECURSION",
+            "SELF_REFERENCE"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sp21-mt2",
+      "name": "Spring 2021 Midterm 2",
+      "problems": [
+        {
+          "number": "1",
+          "title": "Tuple Trouble",
+          "topics": [
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Teenage Mutant Ninja Lists",
+          "topics": [
+            "LISTS",
+            "MUTABILITY"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Higher Order Shopping",
+          "topics": [
+            "LISTS",
+            "MUTABILITY",
+            "NONLOCAL"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Gotta Keep 'Em Separated",
+          "topics": [
+            "LINKED_LISTS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Online Classes",
+          "topics": [
+            "OBJECTS",
+            "REPRESENTATION"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "Gas Composition",
+          "topics": [
+            "LISTS",
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Business as Usual",
+          "topics": [
+            "OBJECTS",
+            "REPRESENTATION"
+          ]
+        },
+        {
+          "number": "8",
+          "title": "The Tree of L-I-F-E",
+          "topics": [
+            "GENERATORS",
+            "ITERATORS",
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "9",
+          "title": "Light It Up",
+          "topics": [
+            "GENERATORS",
+            "ITERATORS",
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "10",
+          "title": "May I Take Your Order",
+          "topics": [
+            "EFFICIENCY",
+            "LINKED_LISTS",
+            "MUTABILITY"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa20-mt2",
+      "name": "Fall 2020 Midterm 2",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLx38hZJ5RLZfXnYIh5Uq10IVRMExMX2qJ"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "Political Environment",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Yield, Fibonacci!",
+          "topics": [
+            "GENERATORS",
+            "ITERATORS",
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Sparse Lists",
+          "topics": [
+            "LISTS",
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Fork It",
+          "topics": [
+            "TREES"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "su20-mt2",
+      "name": "Summer 2020 Midterm",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLx38hZJ5RLZfIiLQm5sH8Lo4PNAqftImh"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "Secure",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Schedule",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Consume",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Exact Copy",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Nth Repeating Sequence",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "Copycat",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Flatmap Tree",
+          "topics": [
+            "UNTAGGED"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sp20-mt2",
+      "name": "Spring 2020 Midterm 2",
+      "problems": [
+        {
+          "number": "1",
+          "title": "Plucking Leaves",
+          "topics": [
+            "LISTS",
+            "MUTABILITY",
+            "OBJECTS",
+            "TREES"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Is Power",
+          "topics": [
+            "GENERATORS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "ITERATORS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "3a",
+          "title": "Wallet",
+          "topics": [
+            "LINKED_LISTS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "3b",
+          "title": "Wallet",
+          "topics": [
+            "OBJECTS"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa19-mt2",
+      "name": "Fall 2019 Midterm 2",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLx38hZJ5RLZdHxEDnfbr8bWjHHtPKga5l"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "What Would Python Display",
+          "topics": [
+            "LISTS",
+            "NONLOCAL",
+            "OBJECTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Environmental Studies",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LISTS",
+            "NONLOCAL"
+          ]
+        },
+        {
+          "number": "3a",
+          "title": "Max Tree",
+          "topics": [
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "3b",
+          "title": "Max Tree",
+          "topics": [
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Seek Once",
+          "topics": [
+            "LISTS"
+          ]
+        },
+        {
+          "number": "5a",
+          "title": "Do You Yield?",
+          "topics": [
+            "GENERATORS",
+            "ITERATORS",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "5b",
+          "title": "Do You Yield?",
+          "topics": [
+            "GROWTH"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "Best of Both",
+          "topics": [
+            "LISTS",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Their Mascot is a Tree?!?",
+          "topics": [
+            "LINKED_LISTS",
+            "TREES"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Version 2.0",
+          "topics": [
+            "LISTS",
+            "OBJECTS"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sp19-mt2",
+      "name": "Spring 2019 Midterm 2",
+      "problems": [
+        {
+          "number": "1",
+          "title": "What Would Python Display",
+          "topics": [
+            "LAMBDAS",
+            "OBJECTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Ultimate",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Deep Lists",
+          "topics": [
+            "LISTS",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "A data structure by any other form would smell just as sweet...",
+          "topics": [
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "A data structure by any other form would smell just as sweet...",
+          "topics": [
+            "GROWTH"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "I speak for the Trees",
+          "topics": [
+            "DATA_ABSTRACTION",
+            "TREES"
+          ]
+        },
+        {
+          "number": "6a",
+          "title": "Trie this",
+          "topics": [
+            "RECURSION",
+            "TREES"
+          ]
+        },
+        {
+          "number": "6b",
+          "title": "Trie this",
+          "topics": [
+            "RECURSION",
+            "TREES"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa18-mt2",
+      "name": "Fall 2018 Midterm 2",
+      "problems": [
+        {
+          "number": "1",
+          "title": "A/B Test",
+          "topics": [
+            "LINKED_LISTS",
+            "OBJECTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Lowest",
+          "topics": [
+            "LAMBDAS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Hocus Pocus",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LISTS",
+            "MUTABILITY",
+            "NONLOCAL"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "Nonplussed",
+          "topics": [
+            "CONTROL",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "Nonplussed",
+          "topics": [
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "4c",
+          "title": "Nonplussed",
+          "topics": [
+            "GROWTH"
+          ]
+        },
+        {
+          "number": "5a",
+          "title": "Midterm Elections",
+          "topics": [
+            "MUTABILITY",
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "5b",
+          "title": "Midterm Elections",
+          "topics": [
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "Dr. Frankenlink",
+          "topics": [
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Trictionary or Treat",
+          "topics": [
+            "GENERATORS",
+            "ITERATORS",
+            "TREES"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sp18-mt2",
+      "name": "Spring 2018 Midterm 2",
+      "problems": [
+        {
+          "number": "1",
+          "title": "Buggy Quidditch",
+          "topics": [
+            "OBJECTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "NVRnment",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LISTS",
+            "NONLOCAL"
+          ]
+        },
+        {
+          "number": "3a,b,c",
+          "title": "Lists",
+          "topics": [
+            "LISTS"
+          ]
+        },
+        {
+          "number": "3d",
+          "title": "Lists",
+          "topics": [
+            "GROWTH"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "Sequences",
+          "topics": [
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "Sequences",
+          "topics": [
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "5a",
+          "title": "Trees",
+          "topics": [
+            "TREES"
+          ]
+        },
+        {
+          "number": "5b",
+          "title": "Trees",
+          "topics": [
+            "OBJECTS",
+            "TREES"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa17-mt2",
+      "name": "Fall 2017 Midterm 2",
+      "problems": [
+        {
+          "number": "1",
+          "title": "By Any Other Name",
+          "topics": [
+            "OBJECTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Buy Local",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LISTS",
+            "NONLOCAL",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "3a,b",
+          "title": "Pumpkin Spice Latte",
+          "topics": [
+            "LISTS"
+          ]
+        },
+        {
+          "number": "3c",
+          "title": "Pumpkin Spice Latte",
+          "topics": [
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "Both Ways",
+          "topics": [
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "Both Ways",
+          "topics": [
+            "GROWTH"
+          ]
+        },
+        {
+          "number": "4c",
+          "title": "Both Ways",
+          "topics": [
+            "LISTS",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "5a",
+          "title": "Autumn Leaves",
+          "topics": [
+            "TREES"
+          ]
+        },
+        {
+          "number": "5b",
+          "title": "Autumn Leaves",
+          "topics": [
+            "OBJECTS",
+            "TREES"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sp17-mt2",
+      "name": "Spring 2017 Midterm 2",
+      "problems": [
+        {
+          "number": "1",
+          "title": "Pointers",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Complexity",
+          "topics": [
+            "GROWTH"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "OOPs!",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Inflections",
+          "topics": [
+            "GENERATORS",
+            "ITERATORS",
+            "LISTS",
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "Tree Paths",
+          "topics": [
+            "NONLOCAL",
+            "TREES"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Grafting",
+          "topics": [
+            "GENERATORS",
+            "ITERATORS",
+            "LISTS",
+            "TREES"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa16-mt2",
+      "name": "Fall 2016 Midterm 2",
+      "problems": [
+        {
+          "number": "1",
+          "title": "Halloween",
+          "topics": [
+            "LINKED_LISTS",
+            "OBJECTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "A List with a Twist",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LISTS",
+            "NONLOCAL"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Return Policy",
+          "topics": [
+            "LISTS",
+            "MUTABILITY",
+            "NONLOCAL"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "A Classy Election",
+          "topics": [
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Trick or Tree",
+          "topics": [
+            "LINKED_LISTS",
+            "TREES"
+          ]
+        },
+        {
+          "number": "6a",
+          "title": "Left it Right There",
+          "topics": [
+            "TREES"
+          ]
+        },
+        {
+          "number": "6b,c",
+          "title": "Left it Right There",
+          "topics": [
+            "GROWTH"
+          ]
+        },
+        {
+          "number": "7a",
+          "title": "Summer Camp",
+          "topics": [
+            "LISTS",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "7b",
+          "title": "Summer Camp",
+          "topics": [
+            "LAMBDAS",
+            "LISTS"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sp16-mt2",
+      "name": "Spring 2016 Midterm 2",
+      "problems": [
+        {
+          "number": "1",
+          "title": "Pointers",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Complexity",
+          "topics": [
+            "GROWTH"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Seeing Double",
+          "topics": [
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Heaps of Trouble",
+          "topics": [
+            "TREES"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "OOPs",
+          "topics": [
+            "OBJECTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Evicted!",
+          "topics": [
+            "GROWTH",
+            "OBJECTS"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa15-mt2",
+      "name": "Fall 2015 Midterm 2",
+      "playlist_links": [
+        "https://www.youtube.com/watch?v=CDZoklstkxs"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "ok --submit",
+          "topics": [
+            "LISTS",
+            "OBJECTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2a",
+          "title": "Exercises",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LISTS",
+            "NONLOCAL"
+          ]
+        },
+        {
+          "number": "2b",
+          "title": "Exercises",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "3a",
+          "title": "Return of the Digits",
+          "topics": [
+            "TREES"
+          ]
+        },
+        {
+          "number": "3b",
+          "title": "Return of the Digits",
+          "topics": [
+            "LISTS"
+          ]
+        },
+        {
+          "number": "3c",
+          "title": "Return of the Digits",
+          "topics": [
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "3d",
+          "title": "Return of the Digits",
+          "topics": [
+            "GROWTH"
+          ]
+        },
+        {
+          "number": "3e",
+          "title": "Return of the Digits",
+          "topics": [
+            "LISTS"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "su15-mt2",
+      "name": "Summer 2015 Midterm 2",
+      "problems": [
+        {
+          "number": "1",
+          "title": "Shut up and take my money",
+          "topics": [
+            "OBJECTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2a",
+          "title": "Fly, you foos!",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "2b",
+          "title": "Fly, you foos!",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "NONLOCAL"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Counter intuitive",
+          "topics": [
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Trees? What a reLEAF!",
+          "topics": [
+            "TREES"
+          ]
+        },
+        {
+          "number": "5a",
+          "title": "The weakest link",
+          "topics": [
+            "GENERATORS",
+            "ITERATORS"
+          ]
+        },
+        {
+          "number": "5b",
+          "title": "The weakest link",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "5c",
+          "title": "The weakest link",
+          "topics": [
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "5d",
+          "title": "The weakest link",
+          "topics": [
+            "GROWTH"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sp15-mt2",
+      "name": "Spring 2015 Midterm 2",
+      "problems": [
+        {
+          "number": "1",
+          "title": "Mutater-tot",
+          "topics": [
+            "LISTS",
+            "RECURSION",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2a",
+          "title": "Vulcans",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LISTS",
+            "NONLOCAL"
+          ]
+        },
+        {
+          "number": "2b",
+          "title": "Vulcans",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "3a,c",
+          "title": "Will Code for Points",
+          "topics": [
+            "TREES"
+          ]
+        },
+        {
+          "number": "3b",
+          "title": "Will Code for Points",
+          "topics": [
+            "GROWTH"
+          ]
+        },
+        {
+          "number": "3d",
+          "title": "Will Code for Points",
+          "topics": [
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "What Color is it?",
+          "topics": [
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "What Color is it?",
+          "topics": [
+            "LISTS",
+            "RECURSION"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa14-mt2",
+      "name": "Fall 2014 Midterm 2",
+      "problems": [
+        {
+          "number": "1",
+          "title": "Worker",
+          "topics": [
+            "OBJECTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2a",
+          "title": "Space",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LISTS",
+            "NONLOCAL"
+          ]
+        },
+        {
+          "number": "2b",
+          "title": "Space",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "3a",
+          "title": "This One Goes to Eleven",
+          "topics": [
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "3b",
+          "title": "This One Goes to Eleven",
+          "topics": [
+            "LISTS",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Tree Time",
+          "topics": [
+            "TREES"
+          ]
+        },
+        {
+          "number": "5a",
+          "title": "Abstraction and Growth",
+          "topics": [
+            "LISTS"
+          ]
+        },
+        {
+          "number": "5b",
+          "title": "Abstraction and Growth",
+          "topics": [
+            "GROWTH"
+          ]
+        }
+      ]
+    }
+  ]
+}

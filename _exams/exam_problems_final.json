@@ -1,0 +1,4239 @@
+{
+  "description": "CS 61A final exams sorted newest first. Playlist and video links are stored per exam; every problem lists its topics.",
+  "exams": [
+    {
+      "label": "su26-final",
+      "name": "Summer 2026 Final",
+      "problems": [
+        {
+          "number": "1",
+          "title": "Haunted Tales",
+          "topics": [
+            "INHERITANCE",
+            "MUTABLE_TREES",
+            "OBJECTS",
+            "REPRESENTATION"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Spider-Man: Brand New Environment Diagram",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LAMBDAS",
+            "LISTS",
+            "MUTABILITY"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "61A Staff Goes to the Movies!",
+          "topics": [
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Family Trees",
+          "topics": [
+            "MUTABLE_TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Commuting to Linked List Land",
+          "topics": [
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "World Cup Efficiency",
+          "topics": [
+            "EFFICIENCY",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Bagel with a Side of Macros",
+          "topics": [
+            "MACROS"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "It’s Time(s) to Bring Multiply Back",
+          "topics": [
+            "SCHEME",
+            "SCHEME_LISTS"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "2026 Formula 1 Season meets SQL",
+          "topics": [
+            "SQL"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sp26-final",
+      "name": "Spring 2026 Final",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLUpowqF9ukrM"
+      ],
+      "problems": [
+        {
+          "number": "1a",
+          "title": "What’s that I smell? Oh, it’s potpourri",
+          "topics": [
+            "EFFICIENCY"
+          ]
+        },
+        {
+          "number": "1b",
+          "title": "What’s that I smell? Oh, it’s potpourri",
+          "topics": [
+            "INHERITANCE",
+            "OBJECTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "1c",
+          "title": "What’s that I smell? Oh, it’s potpourri",
+          "topics": [
+            "GENERATORS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "1d",
+          "title": "What’s that I smell? Oh, it’s potpourri",
+          "topics": [
+            "OBJECTS",
+            "REPRESENTATION"
+          ]
+        },
+        {
+          "number": "2a,b,c,d,e,f",
+          "title": "The Phoenician Scheme",
+          "topics": [
+            "SCHEME"
+          ]
+        },
+        {
+          "number": "2g",
+          "title": "The Phoenician Scheme",
+          "topics": [
+            "MACROS"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "An SQL Query walks over and says: “May I JOIN you?”",
+          "topics": [
+            "SQL"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Where’s the Treasure?",
+          "topics": [
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "I love this question to bits!",
+          "topics": [
+            "LAMBDAS",
+            "SCHEME"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "I’m on a Quest to show what I know about sharks and pregnant fish!",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Scheme Trek III: The search for (fib 100)...",
+          "topics": [
+            "UNTAGGED"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa25-final",
+      "name": "Fall 2025 Final",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLx38hZJ5RLZee1n-ukPBeLEhAfAUYXngC"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "What Would Python Display",
+          "topics": [
+            "CONTROL",
+            "LAMBDAS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Do You Copy",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Math Placement Exam",
+          "topics": [
+            "CONTROL",
+            "ITERATORS",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Trim the Tree",
+          "topics": [
+            "SEQUENCES",
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Downloads",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "Scheme VS Python",
+          "topics": [
+            "LINKED_LISTS",
+            "SCHEME",
+            "SCHEME_LISTS"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Students",
+          "topics": [
+            "OBJECTS",
+            "REPRESENTATION"
+          ]
+        },
+        {
+          "number": "8",
+          "title": "Students in SQL",
+          "topics": [
+            "SQL"
+          ]
+        },
+        {
+          "number": "9a",
+          "title": "A+",
+          "topics": [
+            "SCHEME",
+            "SCHEME_LISTS"
+          ]
+        },
+        {
+          "number": "9b",
+          "title": "A+",
+          "topics": [
+            "LAMBDAS",
+            "TREE_RECURSION"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "su25-final",
+      "name": "Summer 2025 Final",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLx38hZJ5RLZdaeJdCw95ik7NDhlpVpjE0"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "I Wish I Was Special",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "What Would Python Display?",
+          "topics": [
+            "GENERATORS",
+            "ITERATORS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Balls",
+          "topics": [
+            "EFFICIENCY",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Valid Triel",
+          "topics": [
+            "MUTABLE_TREES",
+            "RECURSION",
+            "TREES"
+          ]
+        },
+        {
+          "number": "5a",
+          "title": "CS 61A Text Editor",
+          "topics": [
+            "LINKED_LISTS",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "5b",
+          "title": "CS 61A Text Editor",
+          "topics": [
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "5c",
+          "title": "CS 61A Text Editor",
+          "topics": [
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "5d",
+          "title": "CS 61A Text Editor",
+          "topics": [
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "Major Debacle",
+          "topics": [
+            "SQL"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Rotation Situation",
+          "topics": [
+            "INTERPRETERS",
+            "RECURSION",
+            "SCHEME",
+            "SCHEME_LISTS",
+            "TAIL_RECURSION"
+          ]
+        },
+        {
+          "number": "8",
+          "title": "Golden",
+          "topics": [
+            "INHERITANCE",
+            "OBJECTS",
+            "REPRESENTATION",
+            "SEQUENCES"
+          ]
+        },
+        {
+          "number": "9",
+          "title": "Getting Hyped Tonight",
+          "topics": [
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "10",
+          "title": "Plop, pop, plop",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LAMBDAS",
+            "MUTABILITY"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sp25-final",
+      "name": "Spring 2025 Final",
+      "playlist_links": [
+        "https://youtube.com/playlist?list=PLx38hZJ5RLZeyOevOODbw2tKFLlQGQ3NI&si=Sjkm3bz1V9WTOcXu"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "What Would Python Display?",
+          "topics": [
+            "GENERATORS",
+            "LAMBDAS",
+            "LISTS",
+            "RECURSION",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2a",
+          "title": "Square Bears on Stairs",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LAMBDAS",
+            "LISTS",
+            "MUTABILITY"
+          ]
+        },
+        {
+          "number": "2b",
+          "title": "Square Bears on Stairs",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LAMBDAS",
+            "LISTS",
+            "MUTABILITY"
+          ]
+        },
+        {
+          "number": "2c",
+          "title": "Square Bears on Stairs",
+          "topics": [
+            "EFFICIENCY",
+            "LISTS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "2d",
+          "title": "Square Bears on Stairs",
+          "topics": [
+            "EFFICIENCY",
+            "LISTS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Swap Meet",
+          "topics": [
+            "LISTS"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "Tree Spree",
+          "topics": [
+            "LISTS",
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "Tree Spree",
+          "topics": [
+            "LISTS",
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Row, Row, Row Your Boat",
+          "topics": [
+            "INHERITANCE",
+            "OBJECTS",
+            "SEQUENCES"
+          ]
+        },
+        {
+          "number": "6a",
+          "title": "Arithmetic",
+          "topics": [
+            "CONTROL",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "6b.i",
+          "title": "Arithmetic",
+          "topics": [
+            "LINKED_LISTS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "6b.ii",
+          "title": "Arithmetic",
+          "topics": [
+            "ITERATORS",
+            "LINKED_LISTS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "6c",
+          "title": "Arithmetic",
+          "topics": [
+            "CONTROL",
+            "GENERATORS",
+            "LINKED_LISTS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "7a",
+          "title": "Finally Some Scheme",
+          "topics": [
+            "RECURSION",
+            "SCHEME",
+            "SCHEME_LISTS"
+          ]
+        },
+        {
+          "number": "7b",
+          "title": "Finally Some Scheme",
+          "topics": [
+            "MACROS",
+            "PROGRAMS_AS_DATA",
+            "SCHEME",
+            "SCHEME_LISTS"
+          ]
+        },
+        {
+          "number": "8",
+          "title": "WHERE Brainrot='Italian'",
+          "topics": [
+            "SQL"
+          ]
+        },
+        {
+          "number": "9a",
+          "title": "A+",
+          "topics": [
+            "LISTS",
+            "SEQUENCES"
+          ]
+        },
+        {
+          "number": "9b",
+          "title": "A+",
+          "topics": [
+            "GENERATORS",
+            "LAMBDAS",
+            "TREE_RECURSION"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa24-final",
+      "name": "Fall 2024 Final",
+      "playlist_links": [
+        "https://youtube.com/playlist?list=PLx38hZJ5RLZcwzHlkGBWsNm9ti2c7Q1O3&feature=shared"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "What Would Python Display?",
+          "topics": [
+            "GENERATORS",
+            "LAMBDAS",
+            "LISTS",
+            "RECURSION",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Line Diagram",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS",
+            "LISTS",
+            "MUTABILITY"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Make Tens",
+          "topics": [
+            "CONTROL",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "Count Misses",
+          "topics": [
+            "OBJECTS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "Count Misses",
+          "topics": [
+            "LISTS",
+            "OBJECTS",
+            "REPRESENTATION"
+          ]
+        },
+        {
+          "number": "5a",
+          "title": "Promotion to CS 61B",
+          "topics": [
+            "LISTS"
+          ]
+        },
+        {
+          "number": "5b",
+          "title": "Promotion to CS 61B",
+          "topics": [
+            "LISTS",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "5c",
+          "title": "Promotion to CS 61B",
+          "topics": [
+            "LINKED_LISTS",
+            "MUTABILITY",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "6a",
+          "title": "Fresh Produce",
+          "topics": [
+            "CONTROL",
+            "LISTS",
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "6b",
+          "title": "Fresh Produce",
+          "topics": [
+            "CONTROL",
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "7a",
+          "title": "A Pair of Schemes",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "RECURSION",
+            "SCHEME",
+            "SCHEME_LISTS"
+          ]
+        },
+        {
+          "number": "7b",
+          "title": "A Pair of Schemes",
+          "topics": [
+            "EFFICIENCY",
+            "RECURSION",
+            "SCHEME",
+            "SCHEME_LISTS"
+          ]
+        },
+        {
+          "number": "7c",
+          "title": "A Pair of Schemes",
+          "topics": [
+            "LAMBDAS",
+            "PROGRAMS_AS_DATA",
+            "SCHEME",
+            "SCHEME_LISTS"
+          ]
+        },
+        {
+          "number": "8",
+          "title": "Arcane Jobs",
+          "topics": [
+            "SQL"
+          ]
+        },
+        {
+          "number": "9a",
+          "title": "Ape Pull Us",
+          "topics": [
+            "LAMBDAS",
+            "MACROS",
+            "SCHEME"
+          ]
+        },
+        {
+          "number": "9b",
+          "title": "Ape Pull Us",
+          "topics": [
+            "GENERATORS",
+            "LISTS",
+            "TREE_RECURSION"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "su24-final",
+      "name": "Summer 2024 Final",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLx38hZJ5RLZcGc_xMZM_5j3omVyt7Wlep"
+      ],
+      "problems": [
+        {
+          "number": "1a",
+          "title": "Phrase Phonetics",
+          "topics": [
+            "ITERATORS",
+            "LISTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "1b",
+          "title": "Phrase Phonetics",
+          "topics": [
+            "ITERATORS",
+            "LISTS",
+            "MUTABILITY",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "1c",
+          "title": "Phrase Phonetics",
+          "topics": [
+            "GENERATORS",
+            "ITERATORS",
+            "LISTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "1d",
+          "title": "Phrase Phonetics",
+          "topics": [
+            "GENERATORS",
+            "LISTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "1e",
+          "title": "Phrase Phonetics",
+          "topics": [
+            "ITERATORS",
+            "LISTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Sweet Diadreams",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Movie Theater Seating",
+          "topics": [
+            "LISTS",
+            "MUTABILITY",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Linked Max Composite Value Path",
+          "topics": [
+            "LINKED_LISTS",
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "5a",
+          "title": "CS 61A Web Browser",
+          "topics": [
+            "LAMBDAS",
+            "LINKED_LISTS",
+            "OBJECTS",
+            "REPRESENTATION"
+          ]
+        },
+        {
+          "number": "5b",
+          "title": "CS 61A Web Browser",
+          "topics": [
+            "INHERITANCE",
+            "LINKED_LISTS",
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "5c",
+          "title": "CS 61A Web Browser",
+          "topics": [
+            "INHERITANCE",
+            "LINKED_LISTS",
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "6a",
+          "title": "Treequality",
+          "topics": [
+            "SCHEME",
+            "SCHEME_LISTS",
+            "TAIL_RECURSION"
+          ]
+        },
+        {
+          "number": "6b",
+          "title": "Treequality",
+          "topics": [
+            "SCHEME",
+            "SCHEME_LISTS",
+            "TAIL_RECURSION"
+          ]
+        },
+        {
+          "number": "6c",
+          "title": "Treequality",
+          "topics": [
+            "LAMBDAS",
+            "RECURSION",
+            "SCHEME",
+            "SCHEME_LISTS",
+            "TREES"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Scheme Dictionary Abstraction",
+          "topics": [
+            "LAMBDAS",
+            "PROGRAMS_AS_DATA",
+            "SCHEME",
+            "SCHEME_LISTS"
+          ]
+        },
+        {
+          "number": "8a",
+          "title": " Team USA Basketball: The Sweet Dreams Team",
+          "topics": [
+            "SQL"
+          ]
+        },
+        {
+          "number": "8b",
+          "title": " Team USA Basketball: The Sweet Dreams Team",
+          "topics": [
+            "SQL"
+          ]
+        },
+        {
+          "number": "8c",
+          "title": " Team USA Basketball: The Sweet Dreams Team",
+          "topics": [
+            "SQL"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sp24-final",
+      "name": "Spring 2024 Final",
+      "playlist_links": [
+        "https://youtube.com/playlist?list=PLx38hZJ5RLZcmxfWmIQpkzFsT03tbUWct&feature=shared"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "What Would Python Display?",
+          "topics": [
+            "LISTS",
+            "MUTABILITY",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2a",
+          "title": "Only Up",
+          "topics": [
+            "LISTS",
+            "MUTABILITY"
+          ]
+        },
+        {
+          "number": "2b",
+          "title": "Only Up",
+          "topics": [
+            "ITERATORS",
+            "LAMBDAS",
+            "LISTS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "3a",
+          "title": "Dominos",
+          "topics": [
+            "LISTS",
+            "OBJECTS",
+            "REPRESENTATION"
+          ]
+        },
+        {
+          "number": "3b",
+          "title": "Dominos",
+          "topics": [
+            "LISTS"
+          ]
+        },
+        {
+          "number": "3c",
+          "title": "Dominos",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LISTS",
+            "MUTABILITY",
+            "OBJECTS",
+            "REPRESENTATION"
+          ]
+        },
+        {
+          "number": "3d",
+          "title": "Dominos",
+          "topics": [
+            "SQL"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "Merry-Go-Round",
+          "topics": [
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "Merry-Go-Round",
+          "topics": [
+            "GENERATORS",
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "5a",
+          "title": "Trees",
+          "topics": [
+            "LISTS",
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "5b",
+          "title": "Trees",
+          "topics": [
+            "EFFICIENCY",
+            "MUTABLE_TREES",
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "Scheme",
+          "topics": [
+            "RECURSION",
+            "SCHEME",
+            "SCHEME_LISTS"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Tree Swap",
+          "topics": [
+            "REPRESENTATION",
+            "TREES"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa23-final",
+      "name": "Fall 2023 Final",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLx38hZJ5RLZddSeGrdHHiRlHu07nXxgnT"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "Copying Copies",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LISTS",
+            "MUTABILITY"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Path Math",
+          "topics": [
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Talk Like a Pirate Day",
+          "topics": [
+            "OBJECTS",
+            "REPRESENTATION"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "Six Pages of Pairings (So Please Read the Definition Carefully)",
+          "topics": [
+            "CONTROL",
+            "LISTS",
+            "MUTABILITY"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "Six Pages of Pairings (So Please Read the Definition Carefully)",
+          "topics": [
+            "LAMBDAS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "4c",
+          "title": "Six Pages of Pairings (So Please Read the Definition Carefully)",
+          "topics": [
+            "LISTS",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "4d",
+          "title": "Six Pages of Pairings (So Please Read the Definition Carefully)",
+          "topics": [
+            "GENERATORS",
+            "LISTS",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "4e",
+          "title": "Six Pages of Pairings (So Please Read the Definition Carefully)",
+          "topics": [
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "5a",
+          "title": "What Would Scheme Do?",
+          "topics": [
+            "SCHEME",
+            "SCHEME_LISTS"
+          ]
+        },
+        {
+          "number": "5b",
+          "title": "What Would Scheme Do?",
+          "topics": [
+            "EFFICIENCY"
+          ]
+        },
+        {
+          "number": "5c",
+          "title": "What Would Scheme Do?",
+          "topics": [
+            "SCHEME",
+            "SCHEME_LISTS"
+          ]
+        },
+        {
+          "number": "5d",
+          "title": "What Would Scheme Do?",
+          "topics": [
+            "SCHEME",
+            "SCHEME_LISTS"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "How to Get Promoted",
+          "topics": [
+            "LAMBDAS",
+            "SCHEME",
+            "SCHEME_LISTS"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Don't Skip This",
+          "topics": [
+            "RECURSION",
+            "SCHEME_LISTS"
+          ]
+        },
+        {
+          "number": "8",
+          "title": "Cheap Donuts",
+          "topics": [
+            "SQL"
+          ]
+        },
+        {
+          "number": "9a",
+          "title": "A+ Questions",
+          "topics": [
+            "SCHEME"
+          ]
+        },
+        {
+          "number": "9b",
+          "title": "A+ Questions",
+          "topics": [
+            "GENERATORS",
+            "LISTS",
+            "TREE_RECURSION"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "su23-final",
+      "name": "Summer 2023 Final",
+      "problems": [
+        {
+          "number": "1b",
+          "title": "What Would You Display",
+          "topics": [
+            "SCHEME",
+            "SCHEME_LISTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "1c",
+          "title": "What Would You Display",
+          "topics": [
+            "REGEX",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "1d",
+          "title": "What Would You Display",
+          "topics": [
+            "SQL",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2a",
+          "title": "Slipknot",
+          "topics": [
+            "LINKED_LISTS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "2b",
+          "title": "Slipknot",
+          "topics": [
+            "LINKED_LISTS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "2c",
+          "title": "Slipknot",
+          "topics": [
+            "LINKED_LISTS",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "3a",
+          "title": "OOPeration",
+          "topics": [
+            "OBJECTS",
+            "REGEX"
+          ]
+        },
+        {
+          "number": "3b",
+          "title": "OOPeration",
+          "topics": [
+            "LISTS",
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "3c",
+          "title": "OOPeration",
+          "topics": [
+            "INHERITANCE",
+            "LISTS",
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "3d",
+          "title": "OOPeration",
+          "topics": [
+            "LISTS",
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Ratios",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LISTS",
+            "MUTABLE_TREES",
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "5a",
+          "title": "Kirby Consume",
+          "topics": [
+            "SCHEME",
+            "SCHEME_DATA_ABSTRACTION"
+          ]
+        },
+        {
+          "number": "5b",
+          "title": "Kirby Consume",
+          "topics": [
+            "SCHEME",
+            "SCHEME_DATA_ABSTRACTION",
+            "TAIL_RECURSION"
+          ]
+        },
+        {
+          "number": "6a",
+          "title": "Matchmaking",
+          "topics": [
+            "SCHEME",
+            "SCHEME_DATA_ABSTRACTION"
+          ]
+        },
+        {
+          "number": "6b",
+          "title": "Matchmaking",
+          "topics": [
+            "INTERPRETERS",
+            "SCHEME"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Hills",
+          "topics": [
+            "GENERATORS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "8a",
+          "title": "List Methods",
+          "topics": [
+            "SCHEME",
+            "SCHEME_LISTS",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "9",
+          "title": "S Qube L",
+          "topics": [
+            "SQL"
+          ]
+        },
+        {
+          "number": "10",
+          "title": "Special Topics",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "11.a.i",
+          "title": "What Would You Display",
+          "topics": [
+            "WWPD"
+          ]
+        },
+        {
+          "number": "11.a.ii",
+          "title": "What Would You Display",
+          "topics": [
+            "MUTABLE_TREES",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "11.a.iii",
+          "title": "What Would You Display",
+          "topics": [
+            "MUTABLE_TREES",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "11.a.iv",
+          "title": "What Would You Display",
+          "topics": [
+            "MUTABILITY",
+            "MUTABLE_TREES",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "11.a.v",
+          "title": "What Would You Display",
+          "topics": [
+            "MUTABILITY",
+            "MUTABLE_TREES",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "11.a.vi",
+          "title": "What Would You Display",
+          "topics": [
+            "DATA_ABSTRACTION",
+            "MUTABILITY",
+            "MUTABLE_TREES",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "11a",
+          "title": "A+ Questions",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "SCHEME",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "11b",
+          "title": "A+ Questions",
+          "topics": [
+            "SQL"
+          ]
+        },
+        {
+          "number": "12",
+          "title": "Fun Question",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "87.b.i",
+          "title": "List Methods",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "RECURSION",
+            "SCHEME",
+            "SCHEME_LISTS",
+            "TAIL_RECURSION"
+          ]
+        },
+        {
+          "number": "87.b.ii",
+          "title": "List Methods",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "RECURSION",
+            "SCHEME",
+            "SCHEME_LISTS",
+            "TAIL_RECURSION"
+          ]
+        },
+        {
+          "number": "87.b.iii",
+          "title": "List Methods",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "RECURSION",
+            "SCHEME",
+            "SCHEME_LISTS",
+            "TAIL_RECURSION"
+          ]
+        },
+        {
+          "number": "87.b.iv",
+          "title": "List Methods",
+          "topics": [
+            "EFFICIENCY",
+            "HIGHER_ORDER_FUNCTIONS",
+            "RECURSION",
+            "SCHEME",
+            "SCHEME_LISTS",
+            "TAIL_RECURSION"
+          ]
+        },
+        {
+          "number": "87.b.v",
+          "title": "List Methods",
+          "topics": [
+            "EFFICIENCY",
+            "HIGHER_ORDER_FUNCTIONS",
+            "RECURSION",
+            "SCHEME",
+            "SCHEME_LISTS",
+            "TAIL_RECURSION"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sp23-final",
+      "name": "Spring 2023 Final",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLx38hZJ5RLZcAyMGQiKmKotYDcjgXRnMx"
+      ],
+      "problems": [
+        {
+          "number": "1a",
+          "title": "What Would Python Do?",
+          "topics": [
+            "LINKED_LISTS",
+            "LISTS",
+            "REPRESENTATION",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "1b",
+          "title": "What Would Python Do?",
+          "topics": [
+            "LINKED_LISTS",
+            "LISTS",
+            "REPRESENTATION",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "1c",
+          "title": "What Would Python Do?",
+          "topics": [
+            "LISTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "1d",
+          "title": "What Would Python Do?",
+          "topics": [
+            "EFFICIENCY",
+            "LINKED_LISTS",
+            "LISTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Framed",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LAMBDAS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "3a",
+          "title": "Trees Get Degrees",
+          "topics": [
+            "MUTABLE_TREES",
+            "TREES"
+          ]
+        },
+        {
+          "number": "3b",
+          "title": "Trees Get Degrees",
+          "topics": [
+            "GENERATORS",
+            "MUTABLE_TREES",
+            "TREES"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Repark the Car",
+          "topics": [
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "5a",
+          "title": "Pairings",
+          "topics": [
+            "GENERATORS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "5b",
+          "title": "Pairings",
+          "topics": [
+            "SCHEME",
+            "SCHEME_LISTS"
+          ]
+        },
+        {
+          "number": "6a",
+          "title": "Log and Count",
+          "topics": [
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "6b",
+          "title": "Log and Count",
+          "topics": [
+            "OBJECTS",
+            "SEQUENCES"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Room Service",
+          "topics": [
+            "SQL"
+          ]
+        },
+        {
+          "number": "8",
+          "title": "Group Work",
+          "topics": [
+            "LISTS",
+            "SCHEME_LISTS"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa22-final",
+      "name": "Fall 2022 Final",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLx38hZJ5RLZcRqzzMB-kDTSH6FLx6uQ84"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "What Would Python Do?",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS",
+            "LISTS",
+            "OBJECTS",
+            "REPRESENTATION",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "What About Scheme",
+          "topics": [
+            "SCHEME"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Sum Total",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "Advent of Code",
+          "topics": [
+            "CONTROL",
+            "LISTS",
+            "SEQUENCES"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "Advent of Code",
+          "topics": [
+            "SCHEME",
+            "SCHEME_LISTS"
+          ]
+        },
+        {
+          "number": "4c",
+          "title": "Advent of Code",
+          "topics": [
+            "SQL"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Two Cents",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "Barking up the Wrong Tree",
+          "topics": [
+            "LISTS",
+            "RECURSION",
+            "TREES"
+          ]
+        },
+        {
+          "number": "7a",
+          "title": "One Cent",
+          "topics": [
+            "CONTROL",
+            "GENERATORS",
+            "ITERATORS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "7b",
+          "title": "One Cent",
+          "topics": [
+            "GENERATORS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "ITERATORS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "8",
+          "title": "A Parentheses Scheme",
+          "topics": [
+            "SCHEME",
+            "SCHEME_LISTS"
+          ]
+        },
+        {
+          "number": "9",
+          "title": "Pokemon SQarLet",
+          "topics": [
+            "SQL"
+          ]
+        },
+        {
+          "number": "10",
+          "title": "Treeing up the Wrong Bark",
+          "topics": [
+            "CONTROL",
+            "HIGHER_ORDER_FUNCTIONS",
+            "TREES"
+          ]
+        },
+        {
+          "number": "11",
+          "title": "Another Parentheses Scheme",
+          "topics": [
+            "MACROS",
+            "SCHEME",
+            "SCHEME_LISTS"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "su22-final",
+      "name": "Summer 2022 Final",
+      "playlist_links": [
+        "https://www.youtube.com/watch?v=LL1bXnXUCDw&list=PLx38hZJ5RLZeib1HUBVTSu_WIROx-PwqU"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "What Would Python Display?",
+          "topics": [
+            "GENERATORS",
+            "ITERATORS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Lambdistinction",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "3a",
+          "title": "Pruning and Sprouting",
+          "topics": [
+            "MUTABLE_TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "3b",
+          "title": "Pruning and Sprouting",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "MUTABLE_TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "Linked List Comprehension",
+          "topics": [
+            "CONTROL",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LINKED_LISTS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "Linked List Comprehension",
+          "topics": [
+            "CONTROL",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "4c",
+          "title": "Linked List Comprehension",
+          "topics": [
+            "EFFICIENCY"
+          ]
+        },
+        {
+          "number": "5a",
+          "title": "Tails is my Pal!",
+          "topics": [
+            "RECURSION",
+            "SCHEME",
+            "SCHEME_LISTS"
+          ]
+        },
+        {
+          "number": "5b",
+          "title": "Tails is my Pal!",
+          "topics": [
+            "RECURSION",
+            "SCHEME",
+            "SCHEME_LISTS"
+          ]
+        },
+        {
+          "number": "5c",
+          "title": "Tails is my Pal!",
+          "topics": [
+            "SCHEME",
+            "SCHEME_LISTS",
+            "TAIL_RECURSION"
+          ]
+        },
+        {
+          "number": "5d",
+          "title": "Tails is my Pal!",
+          "topics": [
+            "RECURSION",
+            "SCHEME",
+            "SCHEME_LISTS"
+          ]
+        },
+        {
+          "number": "6a",
+          "title": "Sche(min) some Data Abstract(ions)",
+          "topics": [
+            "DATA_ABSTRACTION",
+            "SCHEME",
+            "SCHEME_LISTS"
+          ]
+        },
+        {
+          "number": "6b",
+          "title": "Sche(min) some Data Abstract(ions)",
+          "topics": [
+            "DATA_ABSTRACTION",
+            "SCHEME",
+            "SCHEME_LISTS"
+          ]
+        },
+        {
+          "number": "6c",
+          "title": "Sche(min) some Data Abstract(ions)",
+          "topics": [
+            "DATA_ABSTRACTION",
+            "LAMBDAS",
+            "SCHEME",
+            "SCHEME_LISTS"
+          ]
+        },
+        {
+          "number": "7a",
+          "title": "Regular Expressongs",
+          "topics": [
+            "REGEX"
+          ]
+        },
+        {
+          "number": "7b",
+          "title": "Regular Expressongs",
+          "topics": [
+            "REGEX"
+          ]
+        },
+        {
+          "number": "8a",
+          "title": "SQL: The Sequel",
+          "topics": [
+            "SQL"
+          ]
+        },
+        {
+          "number": "8b",
+          "title": "SQL: The Sequel",
+          "topics": [
+            "SQL"
+          ]
+        },
+        {
+          "number": "8c",
+          "title": "SQL: The Sequel",
+          "topics": [
+            "SQL"
+          ]
+        },
+        {
+          "number": "9",
+          "title": "Special Topics",
+          "topics": [
+            "UNTAGGED"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sp22-final",
+      "name": "Spring 2022 Final",
+      "playlist_links": [
+        "https://www.youtube.com/watch?v=m7pjJF5pv3Q&list=PLx38hZJ5RLZcLcdouGzJwEtPLLIshVM23"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "Mutation Station",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LAMBDAS",
+            "LISTS",
+            "MUTABILITY"
+          ]
+        },
+        {
+          "number": "2a",
+          "title": "Filter Kilter",
+          "topics": [
+            "ITERATORS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "2b",
+          "title": "Filter Kilter",
+          "topics": [
+            "ITERATORS",
+            "LAMBDAS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "LinkMaker, LinkMaker, Make Me A Link",
+          "topics": [
+            "GENERATORS",
+            "LINKED_LISTS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Summer Reading List",
+          "topics": [
+            "LAMBDAS",
+            "LISTS",
+            "SEQUENCES"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Higher Order Constraints",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "Naming Is Hard",
+          "topics": [
+            "EFFICIENCY"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Cut the Deck",
+          "topics": [
+            "LINKED_LISTS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "8",
+          "title": "Pigeons in a Pear Tree",
+          "topics": [
+            "LISTS",
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "9",
+          "title": "Santa Is Slacking",
+          "topics": [
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "10a",
+          "title": "Going Shopping!",
+          "topics": [
+            "OBJECTS",
+            "REPRESENTATION"
+          ]
+        },
+        {
+          "number": "10b",
+          "title": "Going Shopping!",
+          "topics": [
+            "LISTS",
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "10c",
+          "title": "Going Shopping!",
+          "topics": [
+            "INHERITANCE",
+            "LISTS",
+            "OBJECTS",
+            "SEQUENCES"
+          ]
+        },
+        {
+          "number": "11",
+          "title": "Beadazzled, The Scheme-quel",
+          "topics": [
+            "RECURSION",
+            "SCHEME",
+            "SCHEME_LISTS"
+          ]
+        },
+        {
+          "number": "12a",
+          "title": "The Art of Abstraction",
+          "topics": [
+            "SCHEME",
+            "SCHEME_DATA_ABSTRACTION",
+            "SCHEME_LISTS"
+          ]
+        },
+        {
+          "number": "12b",
+          "title": "The Art of Abstraction",
+          "topics": [
+            "SCHEME",
+            "SCHEME_DATA_ABSTRACTION"
+          ]
+        },
+        {
+          "number": "12c",
+          "title": "The Art of Abstraction",
+          "topics": [
+            "SCHEME",
+            "SCHEME_DATA_ABSTRACTION",
+            "SCHEME_LISTS"
+          ]
+        },
+        {
+          "number": "13",
+          "title": "Comprehending Scheme Lists",
+          "topics": [
+            "PROGRAMS_AS_DATA",
+            "SCHEME",
+            "SCHEME_LISTS"
+          ]
+        },
+        {
+          "number": "14",
+          "title": "Matchy Matchy",
+          "topics": [
+            "REGEX"
+          ]
+        },
+        {
+          "number": "15",
+          "title": "Will it Hash?",
+          "topics": [
+            "REGEX"
+          ]
+        },
+        {
+          "number": "16",
+          "title": "Will it Float?",
+          "topics": [
+            "BNF"
+          ]
+        },
+        {
+          "number": "17a",
+          "title": "The Structure and Interpretation of Scheme",
+          "topics": [
+            "BNF"
+          ]
+        },
+        {
+          "number": "17b",
+          "title": "The Structure and Interpretation of Scheme",
+          "topics": [
+            "BNF"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa21-final",
+      "name": "Fall 2021 Final",
+      "playlist_links": [
+        "https://www.youtube.com/watch?v=oDvlzCAedt4&list=PLx38hZJ5RLZdqzIVxJ_gTbtHchjBNaw9N"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "House Atreides",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LINKED_LISTS",
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Arrakis",
+          "topics": [
+            "GENERATORS",
+            "ITERATORS",
+            "LINKED_LISTS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Caladan",
+          "topics": [
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Spice",
+          "topics": [
+            "SCHEME",
+            "SCHEME_LISTS"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Gom Jabbar",
+          "topics": [
+            "BNF",
+            "REGEX",
+            "SQL"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "su21-final",
+      "name": "Summer 2021 Final",
+      "problems": [
+        {
+          "number": "1",
+          "title": "Next Big Thing",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS"
+          ]
+        },
+        {
+          "number": "2a",
+          "title": "Linked Trees",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "MUTABLE_TREES"
+          ]
+        },
+        {
+          "number": "2b",
+          "title": "Linked Trees",
+          "topics": [
+            "LINKED_LISTS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "2c",
+          "title": "Linked Trees",
+          "topics": [
+            "MUTABLE_TREES"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Reconstructing Ed",
+          "topics": [
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Ed Analysis",
+          "topics": [
+            "SQL"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Scheme",
+          "topics": [
+            "SCHEME",
+            "SCHEME_LISTS",
+            "TAIL_RECURSION"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "All Links",
+          "topics": [
+            "GENERATORS",
+            "ITERATORS",
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Merger",
+          "topics": [
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "8",
+          "title": "Extra Sus",
+          "topics": [
+            "UNTAGGED"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sp21-final",
+      "name": "Spring 2021 Final",
+      "problems": [
+        {
+          "number": "1",
+          "title": "Link-Like Lists",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "What Can Separate Us?",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Tree Match-Maker",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Defer To Your Ancestors",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Sorting Out Scheme",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "No Ifs, Ands, or Buts",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Regularize",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "8",
+          "title": "Backus Up",
+          "topics": [
+            "UNTAGGED"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa20-final",
+      "name": "Fall 2020 Final",
+      "problems": [
+        {
+          "number": "1",
+          "title": "The Droids You're Looking For",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Stoned",
+          "topics": [
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "College Party",
+          "topics": [
+            "LINKED_LISTS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Last Lecture AMA",
+          "topics": [
+            "SQL",
+            "TREES"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "SchemeQL",
+          "topics": [
+            "SCHEME"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "su20-final",
+      "name": "Summer 2020 Final",
+      "problems": [
+        {
+          "number": "1",
+          "title": "Comments",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Scheme Curry",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Same Length",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Symdiff",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Grocery List",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "Compress",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Blockbuster",
+          "topics": [
+            "UNTAGGED"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sp20-final",
+      "name": "Spring 2020 Final",
+      "problems": [
+        {
+          "number": "1",
+          "title": "What Does This Function Do",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Mind Your P's and Q's",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Bounds",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "What Does This Function or Method Do",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Multiples",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "Meeting In Venue",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Apply Here",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "8",
+          "title": "Contact Tracing",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "9",
+          "title": "Expression Tree",
+          "topics": [
+            "UNTAGGED"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa19-final",
+      "name": "Fall 2019 Final",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLx38hZJ5RLZdUVNbANsBdXhuGFvzg38hK"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "What Would Python Display",
+          "topics": [
+            "LAMBDAS",
+            "NONLOCAL",
+            "OBJECTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Protect the Environment",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LAMBDAS",
+            "LISTS",
+            "MUTABILITY"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "The Price Is Right",
+          "topics": [
+            "LAMBDAS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Big Leaf",
+          "topics": [
+            "GENERATORS",
+            "ITERATORS",
+            "TREES"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "To-Do Lists",
+          "topics": [
+            "MUTABILITY",
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "6a",
+          "title": "Palindromes",
+          "topics": [
+            "CONTROL"
+          ]
+        },
+        {
+          "number": "6b",
+          "title": "Palindromes",
+          "topics": [
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "6c",
+          "title": "Palindromes",
+          "topics": [
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "6d",
+          "title": "Palindromes",
+          "topics": [
+            "EFFICIENCY"
+          ]
+        },
+        {
+          "number": "6e",
+          "title": "Palindromes",
+          "topics": [
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "7a",
+          "title": "Mull it Over",
+          "topics": [
+            "RECURSION",
+            "SCHEME"
+          ]
+        },
+        {
+          "number": "7b",
+          "title": "Mull it Over",
+          "topics": [
+            "SCHEME"
+          ]
+        },
+        {
+          "number": "7c",
+          "title": "Mull it Over",
+          "topics": [
+            "RECURSION",
+            "SCHEME"
+          ]
+        },
+        {
+          "number": "8",
+          "title": "Live Stream",
+          "topics": [
+            "SCHEME",
+            "SCHEME_STREAMS"
+          ]
+        },
+        {
+          "number": "9",
+          "title": "Macro Lens",
+          "topics": [
+            "MACROS",
+            "SCHEME"
+          ]
+        },
+        {
+          "number": "10",
+          "title": "Big Give",
+          "topics": [
+            "SQL"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "su19-final",
+      "name": "Summer 2019 Final",
+      "problems": [
+        {
+          "number": "1",
+          "title": "Calling Card",
+          "topics": [
+            "MUTABILITY",
+            "OBJECTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Strangest Things",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "MUTABILITY",
+            "NONLOCAL"
+          ]
+        },
+        {
+          "number": "3a",
+          "title": "One More Time",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "3b",
+          "title": "One More Time",
+          "topics": [
+            "LAMBDAS",
+            "NONLOCAL"
+          ]
+        },
+        {
+          "number": "3c",
+          "title": "One More Time",
+          "topics": [
+            "LAMBDAS",
+            "NONLOCAL"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "Combo Nation",
+          "topics": [
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "Combo Nation",
+          "topics": [
+            "MUTABLE_TREES",
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "4c",
+          "title": "Combo Nation",
+          "topics": [
+            "LAMBDAS",
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Back of the Line",
+          "topics": [
+            "LINKED_LISTS",
+            "MUTABILITY"
+          ]
+        },
+        {
+          "number": "6a",
+          "title": "Before we get to Scheme, some cons-ceptual questions",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "6b",
+          "title": "Before we get to Scheme, some cons-ceptual questions",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "6c",
+          "title": "Before we get to Scheme, some cons-ceptual questions",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "7a",
+          "title": "Procedure With Caution",
+          "topics": [
+            "SCHEME_STREAMS"
+          ]
+        },
+        {
+          "number": "7b",
+          "title": "Procedure With Caution",
+          "topics": [
+            "TAIL_RECURSION"
+          ]
+        },
+        {
+          "number": "7c",
+          "title": "Procedure With Caution",
+          "topics": [
+            "MACROS"
+          ]
+        },
+        {
+          "number": "8",
+          "title": "The Big SQL",
+          "topics": [
+            "UNTAGGED"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sp19-final",
+      "name": "Spring 2019 Final",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLx38hZJ5RLZfKhr-cbXFEgKZxR1j-ZL74"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "Iterators are inevitable",
+          "topics": [
+            "GENERATORS",
+            "ITERATORS"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Waitlisted",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "MUTABILITY"
+          ]
+        },
+        {
+          "number": "3a",
+          "title": "I Just Want To Go Home!",
+          "topics": [
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "3b",
+          "title": "I Just Want To Go Home!",
+          "topics": [
+            "GROWTH"
+          ]
+        },
+        {
+          "number": "3c",
+          "title": "I Just Want To Go Home!",
+          "topics": [
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "Streams",
+          "topics": [
+            "SCHEME_STREAMS"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "Streams",
+          "topics": [
+            "SCHEME_STREAMS"
+          ]
+        },
+        {
+          "number": "4c",
+          "title": "Streams",
+          "topics": [
+            "SCHEME_STREAMS"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Scope!",
+          "topics": [
+            "INTERPRETERS"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "Potpourri",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "7a",
+          "title": "TCO!",
+          "topics": [
+            "TAIL_RECURSION"
+          ]
+        },
+        {
+          "number": "7b",
+          "title": "TCO!",
+          "topics": [
+            "GROWTH"
+          ]
+        },
+        {
+          "number": "7c",
+          "title": "TCO!",
+          "topics": [
+            "GROWTH"
+          ]
+        },
+        {
+          "number": "8",
+          "title": "Macros",
+          "topics": [
+            "MACROS"
+          ]
+        },
+        {
+          "number": "9a",
+          "title": "SQL",
+          "topics": [
+            "SQL"
+          ]
+        },
+        {
+          "number": "9b",
+          "title": "SQL",
+          "topics": [
+            "SQL"
+          ]
+        },
+        {
+          "number": "10",
+          "title": "Scheme",
+          "topics": [
+            "INTERPRETERS"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa18-final",
+      "name": "Fall 2018 Final",
+      "problems": [
+        {
+          "number": "1",
+          "title": "High Quality Air",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "OBJECTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Diagram Horror",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "MUTABILITY"
+          ]
+        },
+        {
+          "number": "3a",
+          "title": "Gainz",
+          "topics": [
+            "LISTS"
+          ]
+        },
+        {
+          "number": "3b",
+          "title": "Gainz",
+          "topics": [
+            "GENERATORS",
+            "GROWTH",
+            "ITERATORS"
+          ]
+        },
+        {
+          "number": "3c",
+          "title": "Gainz",
+          "topics": [
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "3d",
+          "title": "Gainz",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "Tree Time",
+          "topics": [
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "Tree Time",
+          "topics": [
+            "NONLOCAL",
+            "TREES"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Run, Program, Run",
+          "topics": [
+            "SCHEME",
+            "SCHEME_LISTS"
+          ]
+        },
+        {
+          "number": "6a",
+          "title": "Generation Z",
+          "topics": [
+            "GENERATORS",
+            "ITERATORS",
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "6b",
+          "title": "Generation Z",
+          "topics": [
+            "SCHEME",
+            "SCHEME_STREAMS"
+          ]
+        },
+        {
+          "number": "6c",
+          "title": "Generation Z",
+          "topics": [
+            "MACROS"
+          ]
+        },
+        {
+          "number": "7a",
+          "title": "SQL of Course",
+          "topics": [
+            "SQL"
+          ]
+        },
+        {
+          "number": "7b",
+          "title": "SQL of Course",
+          "topics": [
+            "SQL"
+          ]
+        },
+        {
+          "number": "7c",
+          "title": "SQL of Course",
+          "topics": [
+            "SQL"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "su18-final",
+      "name": "Summer 2018 Final",
+      "problems": [
+        {
+          "number": "1",
+          "title": "Jennifer and Chae’s Cat Cafe",
+          "topics": [
+            "OBJECTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Jemin Watches Some Soccer",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "NONLOCAL"
+          ]
+        },
+        {
+          "number": "3a",
+          "title": "While You Evaluate These Function Calls-man, Don’t Make An Error-ca",
+          "topics": [
+            "SCHEME"
+          ]
+        },
+        {
+          "number": "3b",
+          "title": "While You Evaluate These Function Calls-man, Don’t Make An Error-ca",
+          "topics": [
+            "SCHEME_LISTS"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "BSTs",
+          "topics": [
+            "TREES"
+          ]
+        },
+        {
+          "number": "5a",
+          "title": "Kevin and Griffin’s Lunch Order",
+          "topics": [
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "5b",
+          "title": "Kevin and Griffin’s Lunch Order",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LISTS",
+            "MUTABILITY",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "5c",
+          "title": "Kevin and Griffin’s Lunch Order",
+          "topics": [
+            "DATA_ABSTRACTION"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "Christreena Finds Longer Paths",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "RECURSION",
+            "TREES"
+          ]
+        },
+        {
+          "number": "7a",
+          "title": "Streams and Jennyrators",
+          "topics": [
+            "GENERATORS",
+            "ITERATORS"
+          ]
+        },
+        {
+          "number": "7b",
+          "title": "Streams and Jennyrators",
+          "topics": [
+            "GENERATORS",
+            "ITERATORS"
+          ]
+        },
+        {
+          "number": "7c",
+          "title": "Streams and Jennyrators",
+          "topics": [
+            "SCHEME_STREAMS"
+          ]
+        },
+        {
+          "number": "8a",
+          "title": "Nan-scheme Writes Cam-acros",
+          "topics": [
+            "SCHEME"
+          ]
+        },
+        {
+          "number": "8b",
+          "title": "Nan-scheme Writes Cam-acros",
+          "topics": [
+            "SCHEME"
+          ]
+        },
+        {
+          "number": "8c",
+          "title": "Nan-scheme Writes Cam-acros",
+          "topics": [
+            "MACROS"
+          ]
+        },
+        {
+          "number": "9a",
+          "title": "Birthday Query Language",
+          "topics": [
+            "SQL"
+          ]
+        },
+        {
+          "number": "9b",
+          "title": "Birthday Query Language",
+          "topics": [
+            "SQL"
+          ]
+        },
+        {
+          "number": "9c",
+          "title": "Birthday Query Language",
+          "topics": [
+            "SQL"
+          ]
+        },
+        {
+          "number": "10a,b,b",
+          "title": "Alex-tra Lectures",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "11",
+          "title": "Perfectly Balanced, As All Things Should Be",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "12",
+          "title": "Wan More Thing",
+          "topics": [
+            "UNTAGGED"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sp18-final",
+      "name": "Spring 2018 Final",
+      "problems": [
+        {
+          "number": "1",
+          "title": "The Floss",
+          "topics": [
+            "GENERATORS",
+            "ITERATORS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Announcements",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LISTS",
+            "NONLOCAL"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Binary Trees",
+          "topics": [
+            "TREES"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "Apply Yourself",
+          "topics": [
+            "GENERATORS",
+            "ITERATORS"
+          ]
+        },
+        {
+          "number": "4b,c",
+          "title": "Apply Yourself",
+          "topics": [
+            "GROWTH"
+          ]
+        },
+        {
+          "number": "5a",
+          "title": "Functions As Expected",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS",
+            "LISTS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "5b",
+          "title": "Functions As Expected",
+          "topics": [
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "6a",
+          "title": "Scheme Forever",
+          "topics": [
+            "TAIL_RECURSION"
+          ]
+        },
+        {
+          "number": "6b",
+          "title": "Scheme Forever",
+          "topics": [
+            "SCHEME_STREAMS"
+          ]
+        },
+        {
+          "number": "6c",
+          "title": "Scheme Forever",
+          "topics": [
+            "MACROS"
+          ]
+        },
+        {
+          "number": "6d",
+          "title": "Scheme Forever",
+          "topics": [
+            "SCHEME"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Gotta Select 'Em All",
+          "topics": [
+            "SQL"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa17-final",
+      "name": "Fall 2017 Final",
+      "problems": [
+        {
+          "number": "1",
+          "title": "Calling All Values",
+          "topics": [
+            "GENERATORS",
+            "ITERATORS",
+            "LAMBDAS",
+            "LISTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Envrionmentally Friendly",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LISTS",
+            "NONLOCAL"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Get the Point?",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "4a,b,c",
+          "title": "O! Pascal",
+          "topics": [
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "4d",
+          "title": "O! Pascal",
+          "topics": [
+            "GROWTH"
+          ]
+        },
+        {
+          "number": "5a,b",
+          "title": "Level-Headed Tree",
+          "topics": [
+            "GENERATORS",
+            "ITERATORS",
+            "TREES"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "Simplify! Simplify!",
+          "topics": [
+            "SCHEME"
+          ]
+        },
+        {
+          "number": "7a",
+          "title": "Friendship",
+          "topics": [
+            "SQL"
+          ]
+        },
+        {
+          "number": "7b",
+          "title": "Friendship",
+          "topics": [
+            "UNTAGGED"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "su17-final",
+      "name": "Summer 2017 Final",
+      "problems": [
+        {
+          "number": "1",
+          "title": "We're all the same to them ...",
+          "topics": [
+            "GENERATORS",
+            "ITERATORS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Winter is coming.",
+          "topics": [
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "You know nothing, Jon Snow.",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "NONLOCAL"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "The things I do for love.",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "The things I do for love.",
+          "topics": [
+            "GENERATORS",
+            "ITERATORS"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "When you play the game of thrones, you win or die.",
+          "topics": [
+            "TREES"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "There is no middle ground.",
+          "topics": [
+            "LISTS",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "8a",
+          "title": "The Lannisters send their regards.",
+          "topics": [
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "8b",
+          "title": "The Lannisters send their regards.",
+          "topics": [
+            "TAIL_RECURSION"
+          ]
+        },
+        {
+          "number": "9",
+          "title": "One voice may speak you false, but in many there is always truth to be found.",
+          "topics": [
+            "INTERPRETERS"
+          ]
+        },
+        {
+          "number": "10a",
+          "title": "I've brought ice and fire together.",
+          "topics": [
+            "SQL"
+          ]
+        },
+        {
+          "number": "10b",
+          "title": "I've brought ice and fire together.",
+          "topics": [
+            "SQL"
+          ]
+        },
+        {
+          "number": "10c",
+          "title": "I've brought ice and fire together.",
+          "topics": [
+            "SQL"
+          ]
+        },
+        {
+          "number": "10d",
+          "title": "I've brought ice and fire together.",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "10e,f",
+          "title": "I've brought ice and fire together.",
+          "topics": [
+            "GENERATORS",
+            "ITERATORS"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sp17-final",
+      "name": "Spring 2017 Final",
+      "problems": [
+        {
+          "number": "1",
+          "title": "What Would Python Do?",
+          "topics": [
+            "GENERATORS",
+            "ITERATORS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2a",
+          "title": "What's the Point(er)",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "2b",
+          "title": "What's the Point(er)",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "3a",
+          "title": "Environmental Issues",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "NONLOCAL"
+          ]
+        },
+        {
+          "number": "3b",
+          "title": "Environmental Issues",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LAMBDAS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Spring Pruning",
+          "topics": [
+            "TREES"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "Stream",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Raises",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "8",
+          "title": "Pair Up",
+          "topics": [
+            "TAIL_RECURSION"
+          ]
+        },
+        {
+          "number": "9",
+          "title": "Don't Go Down!",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "10",
+          "title": "Sum Range",
+          "topics": [
+            "TREES"
+          ]
+        },
+        {
+          "number": "11",
+          "title": "Big Theta",
+          "topics": [
+            "GROWTH"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa16-final",
+      "name": "Fall 2016 Final",
+      "problems": [
+        {
+          "number": "1",
+          "title": "What Would Python Display?",
+          "topics": [
+            "GENERATORS",
+            "ITERATORS",
+            "LAMBDAS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "A Function By Any Other Name",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LISTS",
+            "NONLOCAL"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Boxes and Arrows",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "A Tree or a List",
+          "topics": [
+            "LISTS",
+            "TREES"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "A Tree or a List",
+          "topics": [
+            "GENERATORS",
+            "ITERATORS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "4c",
+          "title": "A Tree or a List",
+          "topics": [
+            "GROWTH"
+          ]
+        },
+        {
+          "number": "4d",
+          "title": "A Tree or a List",
+          "topics": [
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "5a",
+          "title": "Reset",
+          "topics": [
+            "LAMBDAS",
+            "NONLOCAL"
+          ]
+        },
+        {
+          "number": "5b",
+          "title": "Reset",
+          "topics": [
+            "SCHEME_STREAMS"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "I Scheme for Ice Cream",
+          "topics": [
+            "SCHEME"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Hailstoned",
+          "topics": [
+            "UNTAGGED"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "su16-final",
+      "name": "Summer 2016 Final",
+      "problems": [
+        {
+          "number": "1",
+          "title": "Does Jack Like Jackfruits?",
+          "topics": [
+            "OBJECTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2a",
+          "title": "Marsalists Have Mutant Powers",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "GENERATORS",
+            "ITERATORS",
+            "NONLOCAL"
+          ]
+        },
+        {
+          "number": "2b",
+          "title": "Marsalists Have Mutant Powers",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "3a",
+          "title": "The Pair of Pair-ic and Pair-ome",
+          "topics": [
+            "LISTS"
+          ]
+        },
+        {
+          "number": "3b",
+          "title": "The Pair of Pair-ic and Pair-ome",
+          "topics": [
+            "LAMBDAS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Caught Ya!",
+          "topics": [
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "The Tree-o of Tam-tree, Tree-tas, and Tree-il",
+          "topics": [
+            "TREES"
+          ]
+        },
+        {
+          "number": "6a,b",
+          "title": "Dan-scheme with the Cars",
+          "topics": [
+            "SCHEME"
+          ]
+        },
+        {
+          "number": "6c",
+          "title": "Dan-scheme with the Cars",
+          "topics": [
+            "INTERPRETERS"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Let to Sam-da",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "8",
+          "title": "Zhen-erators Produce Power",
+          "topics": [
+            "GENERATORS",
+            "ITERATORS"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sp16-final",
+      "name": "Spring 2016 Final",
+      "problems": [
+        {
+          "number": "1",
+          "title": "Silence of the Lambdas",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LISTS",
+            "NONLOCAL",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2a,b",
+          "title": "Point(er) or Order",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "2c",
+          "title": "Point(er) or Order",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Environmentally Sound",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "Tiptoe through the Links",
+          "topics": [
+            "GROWTH"
+          ]
+        },
+        {
+          "number": "4b,d",
+          "title": "Tiptoe through the Links",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "4c",
+          "title": "Tiptoe through the Links",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "5a",
+          "title": "Triangular!",
+          "topics": [
+            "LISTS",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "5b,d",
+          "title": "Triangular!",
+          "topics": [
+            "GROWTH"
+          ]
+        },
+        {
+          "number": "5c",
+          "title": "Triangular!",
+          "topics": [
+            "LISTS"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "Six Degrees of Separation",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Tail Recursing the Dog",
+          "topics": [
+            "TAIL_RECURSION"
+          ]
+        },
+        {
+          "number": "9",
+          "title": "In the Trees",
+          "topics": [
+            "TREES"
+          ]
+        },
+        {
+          "number": "10a",
+          "title": "Treebeard's Revenge",
+          "topics": [
+            "LINKED_LISTS",
+            "NONLOCAL",
+            "TREES"
+          ]
+        },
+        {
+          "number": "10b",
+          "title": "Treebeard's Revenge",
+          "topics": [
+            "LINKED_LISTS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "11",
+          "title": "Exstream!",
+          "topics": [
+            "UNTAGGED"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa15-final",
+      "name": "Fall 2015 Final",
+      "problems": [
+        {
+          "number": "1",
+          "title": "From the Other Side",
+          "topics": [
+            "OBJECTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Endor",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LISTS",
+            "NONLOCAL"
+          ]
+        },
+        {
+          "number": "3a,c",
+          "title": "Forest Path",
+          "topics": [
+            "TREES"
+          ]
+        },
+        {
+          "number": "3b",
+          "title": "Forest Path",
+          "topics": [
+            "GROWTH"
+          ]
+        },
+        {
+          "number": "3d",
+          "title": "Forest Path",
+          "topics": [
+            "LAMBDAS",
+            "TREES"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Cucumber",
+          "topics": [
+            "LISTS",
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "5a",
+          "title": "Grouper",
+          "topics": [
+            "LISTS"
+          ]
+        },
+        {
+          "number": "5b",
+          "title": "Grouper",
+          "topics": [
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "5c",
+          "title": "Grouper",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "5d",
+          "title": "Grouper",
+          "topics": [
+            "LISTS"
+          ]
+        },
+        {
+          "number": "6a,b",
+          "title": "Pair Emphasis",
+          "topics": [
+            "SCHEME"
+          ]
+        },
+        {
+          "number": "6c",
+          "title": "Pair Emphasis",
+          "topics": [
+            "INTERPRETERS"
+          ]
+        },
+        {
+          "number": "7a",
+          "title": "Highly Exclusive",
+          "topics": [
+            "SCHEME_STREAMS"
+          ]
+        },
+        {
+          "number": "7b",
+          "title": "Highly Exclusive",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "7c",
+          "title": "Highly Exclusive",
+          "topics": [
+            "UNTAGGED"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "su15-final",
+      "name": "Summer 2015 Final",
+      "problems": [
+        {
+          "number": "1",
+          "title": "What Would Scheme Do?",
+          "topics": [
+            "SCHEME"
+          ]
+        },
+        {
+          "number": "2a",
+          "title": "Broken Promises",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LAMBDAS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "2b",
+          "title": "Broken Promises",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LISTS",
+            "NONLOCAL"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Cracking the Coding Interview",
+          "topics": [
+            "CONTROL"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "I'm getting TREEtment for my heap problem",
+          "topics": [
+            "TREES"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "CS61A+",
+          "topics": [
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "6a",
+          "title": "Unique-Lo",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "6b",
+          "title": "Unique-Lo",
+          "topics": [
+            "SCHEME"
+          ]
+        },
+        {
+          "number": "6c",
+          "title": "Unique-Lo",
+          "topics": [
+            "SCHEME_STREAMS"
+          ]
+        },
+        {
+          "number": "7a",
+          "title": "Counting stars",
+          "topics": [
+            "TAIL_RECURSION"
+          ]
+        },
+        {
+          "number": "7b",
+          "title": "Counting stars",
+          "topics": [
+            "SQL"
+          ]
+        },
+        {
+          "number": "8a",
+          "title": "Subsequently ...",
+          "topics": [
+            "LISTS",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "8b",
+          "title": "Subsequently ...",
+          "topics": [
+            "UNTAGGED"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sp15-final",
+      "name": "Spring 2015 Final",
+      "problems": [
+        {
+          "number": "1",
+          "title": "Lumberjack",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Hot and Cold",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LISTS",
+            "NONLOCAL"
+          ]
+        },
+        {
+          "number": "3a,b",
+          "title": "Team Stream",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "3c,d",
+          "title": "Team Stream",
+          "topics": [
+            "GROWTH"
+          ]
+        },
+        {
+          "number": "4a,b",
+          "title": "Apply That Again",
+          "topics": [
+            "GENERATORS",
+            "ITERATORS"
+          ]
+        },
+        {
+          "number": "4c",
+          "title": "Apply That Again",
+          "topics": [
+            "CONTROL",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "4d",
+          "title": "Apply That Again",
+          "topics": [
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "5a",
+          "title": "Treasure Hunt",
+          "topics": [
+            "LISTS",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "5b",
+          "title": "Treasure Hunt",
+          "topics": [
+            "SQL"
+          ]
+        },
+        {
+          "number": "5c",
+          "title": "Treasure Hunt",
+          "topics": [
+            "LINKED_LISTS",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "SQL in Scheme",
+          "topics": [
+            "SCHEME"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa14-final",
+      "name": "Fall 2014 Final",
+      "problems": [
+        {
+          "number": "1",
+          "title": "Representing Scheme Lists",
+          "topics": [
+            "LINKED_LISTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2a",
+          "title": "Environments",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "NONLOCAL"
+          ]
+        },
+        {
+          "number": "2b,c",
+          "title": "Environments",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Expression Trees",
+          "topics": [
+            "TREES"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "Lazy Sunday",
+          "topics": [
+            "GENERATORS",
+            "ITERATORS"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "Lazy Sunday",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "4c,d",
+          "title": "Lazy Sunday",
+          "topics": [
+            "SCHEME"
+          ]
+        },
+        {
+          "number": "5a",
+          "title": "Basis Loaded",
+          "topics": [
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "5b",
+          "title": "Basis Loaded",
+          "topics": [
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "5c",
+          "title": "Basis Loaded",
+          "topics": [
+            "GROWTH"
+          ]
+        },
+        {
+          "number": "5d",
+          "title": "Basis Loaded",
+          "topics": [
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "5e",
+          "title": "Basis Loaded",
+          "topics": [
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "6a",
+          "title": "Sequels",
+          "topics": [
+            "SQL"
+          ]
+        },
+        {
+          "number": "6b",
+          "title": "Sequels",
+          "topics": [
+            "UNTAGGED"
+          ]
+        }
+      ]
+    }
+  ]
+}

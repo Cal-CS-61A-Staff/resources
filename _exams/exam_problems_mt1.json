@@ -1,0 +1,1946 @@
+{
+  "description": "CS 61A mt1 exams sorted newest first. Playlist and video links are stored per exam; every problem lists its topics.",
+  "exams": [
+    {
+      "label": "su26-mt1",
+      "name": "Summer 2026 Midterm 1",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLIW37Q4_TY4k"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "Do you speak for the Trees? (WWPD)",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS",
+            "RECURSION",
+            "TREES",
+            "TREE_RECURSION",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Too Sweet",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LAMBDAS",
+            "LISTS",
+            "MUTABILITY",
+            "SEQUENCES"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Bugs Begone",
+          "topics": [
+            "CONTROL",
+            "LAMBDAS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Skipper",
+          "topics": [
+            "CONTROL",
+            "RECURSION",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Higher Order Minions",
+          "topics": [
+            "CONTROL",
+            "GENERATORS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "ITERATORS",
+            "LISTS",
+            "MUTABILITY",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "Bracket Breaker",
+          "topics": [
+            "CONTROL",
+            "GENERATORS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "ITERATORS",
+            "LISTS",
+            "RECURSION",
+            "SEQUENCES",
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Messi Iterators",
+          "topics": [
+            "CONTROL",
+            "ITERATORS",
+            "LISTS",
+            "MUTABILITY"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa25-mt1",
+      "name": "Fall 2025 Midterm 1",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLx38hZJ5RLZfsmQ9OU1u29XPVlEFVEPxU"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "What Would Python Do(ot)?",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Silksong",
+          "topics": [
+            "CONTROL"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Saja Boys",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "Legit Digit",
+          "topics": [
+            "CONTROL"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "Legit Digit",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "4c",
+          "title": "Legit Digit",
+          "topics": [
+            "CONTROL",
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sp25-mt1",
+      "name": "Spring 2025 Midterm 1",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLx38hZJ5RLZeHbjBRWlfcuE1j0aBcTe9K"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "What Would Python Print?",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Which One",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "3a",
+          "title": "Legit Digit",
+          "topics": [
+            "CONTROL",
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "3b",
+          "title": "Legit Digit",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "3c",
+          "title": "Legit Digit",
+          "topics": [
+            "CONTROL"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Hailstone Returns",
+          "topics": [
+            "CONTROL"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "It Takes Two",
+          "topics": [
+            "CONTROL"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa24-mt1",
+      "name": "Fall 2024 Midterm 1",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLx38hZJ5RLZdqdZaJ5HPGQfgcDv2uuAXD"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "What Would Python Display?",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Which One",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Final Digit",
+          "topics": [
+            "CONTROL"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Close Enough",
+          "topics": [
+            "CONTROL"
+          ]
+        },
+        {
+          "number": "5a",
+          "title": "Shifty",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "5b",
+          "title": "Shifty",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "5c",
+          "title": "Shifty",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sp24-mt1",
+      "name": "Spring 2024 Midterm 1",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLx38hZJ5RLZedYbv5Ufeg6MFiAJWq1emy"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "What Would Python Display?",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Silence of the Lambda",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Nearly Square",
+          "topics": [
+            "CONTROL"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "Nice Dice",
+          "topics": [
+            "CONTROL"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "Nice Dice",
+          "topics": [
+            "CONTROL",
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "4c",
+          "title": "Nice Dice",
+          "topics": [
+            "CONTROL",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "4d",
+          "title": "Nice Dice",
+          "topics": [
+            "CONTROL",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "4e",
+          "title": "Nice Dice",
+          "topics": [
+            "CONTROL",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa23-mt1",
+      "name": "Fall 2023 Midterm 1",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLx38hZJ5RLZfIOSMJkyXDorNAnGsOsEK5"
+      ],
+      "problems": [
+        {
+          "number": "1a",
+          "title": "What Would Python Display?",
+          "topics": [
+            "CONTROL",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "1b",
+          "title": "What Would Python Display?",
+          "topics": [
+            "CONTROL",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "1c",
+          "title": "What Would Python Display?",
+          "topics": [
+            "CONTROL",
+            "LAMBDAS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "1d",
+          "title": "What Would Python Display?",
+          "topics": [
+            "CONTROL",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "An Odd Implementation of Even",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "3a",
+          "title": "In Your Prime",
+          "topics": [
+            "CONTROL"
+          ]
+        },
+        {
+          "number": "3b",
+          "title": "In Your Prime",
+          "topics": [
+            "CONTROL",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "Choose Wisely",
+          "topics": [
+            "CONTROL"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "Choose Wisely",
+          "topics": [
+            "CONTROL",
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "4c",
+          "title": "Choose Wisely",
+          "topics": [
+            "CONTROL",
+            "LAMBDAS"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sp23-mt1",
+      "name": "Spring 2023 Midterm 1",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLx38hZJ5RLZeKzOT5MaEyKpizylO9N5-j"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "What Would Python Display?",
+          "topics": [
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Square the Square",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "On Repeat",
+          "topics": [
+            "CONTROL"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Perfect Ten",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa22-mt1",
+      "name": "Fall 2022 Midterm 1",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLx38hZJ5RLZcljOPD9iZ_MfYOw8Rj6OGF"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "What Would Python Display?",
+          "topics": [
+            "LAMBDAS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Don't Call Me, I'll Call You",
+          "topics": [
+            "CONTROL",
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "3a",
+          "title": "It's Perfect",
+          "topics": [
+            "CONTROL"
+          ]
+        },
+        {
+          "number": "3b",
+          "title": "It's Perfect",
+          "topics": [
+            "CONTROL"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "Super Powers",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "Super Powers",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "4c",
+          "title": "Super Powers",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Busy Beaver",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sp22-mt1",
+      "name": "Spring 2022 Midterm 1",
+      "problems": [
+        {
+          "number": "1",
+          "title": "What Would Python Dip?",
+          "topics": [
+            "CONTROL",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Ring My Bell Tower",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Doctor Octalpus, Reborn",
+          "topics": [
+            "CONTROL"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Forbidden Digits",
+          "topics": [
+            "CONTROL",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "The Floor is Lava",
+          "topics": [
+            "CONTROL",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "Curry Up Now",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa21-mt1",
+      "name": "Fall 2021 Midterm 1",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLx38hZJ5RLZfyDHKL8BChcCOAk6bx80fQ"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "What Would Python Display?",
+          "topics": [
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "31 Cal Olympians",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "All Hail the Stone",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "su21-mt1",
+      "name": "Summer 2021 Diagnostic",
+      "problems": [
+        {
+          "number": "1",
+          "title": "Applications are Closed",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Catch that Bug!",
+          "topics": [
+            "CONTROL",
+            "HIGHER_ORDER_FUNCTIONS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Oh, Camel!",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "RECURSION"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sp21-mt1",
+      "name": "Spring 2021 Midterm 1",
+      "problems": [
+        {
+          "number": "1",
+          "title": "Reverse Environment Diagram",
+          "topics": [
+            "CONTROL",
+            "ENVIRONMENT_DIAGRAMS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "The Case of the Missing Docstring",
+          "topics": [
+            "CONTROL"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Magical Test Weaver",
+          "topics": [
+            "CONTROL"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Domain on the Range",
+          "topics": [
+            "CONTROL",
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Digit Replacer",
+          "topics": [
+            "CONTROL",
+            "HIGHER_ORDER_FUNCTIONS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "Run Checker",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Measure Twice, Cup Once",
+          "topics": [
+            "TREE_RECURSION"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa20-mt1",
+      "name": "Fall 2020 Midterm 1",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLx38hZJ5RLZfootmDorSVuITpvz84d4NH"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "Down for the Count",
+          "topics": [
+            "CONTROL"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Mystery Function",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Please Register to Vote",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Amazing Job Growth",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "su20-mt1",
+      "name": "Summer 2020 Midterm 1",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLx38hZJ5RLZcw5FXtcXCJNzDS68a418q6"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "Poem",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "SELF_REFERENCE"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Storeroom",
+          "topics": [
+            "CONTROL",
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Falconer",
+          "topics": [
+            "TREE_RECURSION"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sp20-mt1",
+      "name": "Spring 2020 Midterm 1",
+      "playlist_links": [
+        "https://www.youtube.com/watch?v=5_tYJ_MLnUk&list=PLx38hZJ5RLZdIj6oz-_19DDDUd_4yBduR"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "What Would Python Display",
+          "topics": [
+            "CONTROL",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "People's Park",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "3a",
+          "title": "Digit Fidget",
+          "topics": [
+            "CONTROL"
+          ]
+        },
+        {
+          "number": "3b",
+          "title": "Digit Fidget",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "3c",
+          "title": "Digit Fidget",
+          "topics": [
+            "CONTROL"
+          ]
+        },
+        {
+          "number": "3d",
+          "title": "Digit Fidget",
+          "topics": [
+            "CONTROL",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "Composition",
+          "topics": [
+            "CONTROL",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS",
+            "SELF_REFERENCE"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "Composition",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa19-mt1",
+      "name": "Fall 2019 Midterm 1",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLx38hZJ5RLZdKFYrZmsH44VBWjyG045Tn"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "What Would Python Display",
+          "topics": [
+            "CONTROL",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Environmental Studies",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "You Again",
+          "topics": [
+            "CONTROL",
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "Ups and Downs",
+          "topics": [
+            "CONTROL"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "Ups and Downs",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "4c",
+          "title": "Ups and Downs",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "SELF_REFERENCE"
+          ]
+        },
+        {
+          "number": "4d",
+          "title": "Ups and Downs",
+          "topics": [
+            "CONTROL"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "su19-mt1",
+      "name": "Summer 2019 Midterm",
+      "problems": [
+        {
+          "number": "1",
+          "title": "WWPD",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Environment Diagram",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Boxing Day",
+          "topics": [
+            "UNTAGGED"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "Conceptual Questions",
+          "topics": [
+            "NONLOCAL"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "Conceptual Questions",
+          "topics": [
+            "GROWTH"
+          ]
+        },
+        {
+          "number": "4c",
+          "title": "Conceptual Questions",
+          "topics": [
+            "GENERATORS",
+            "ITERATORS"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Negative Feedback",
+          "topics": [
+            "LISTS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "Your Guess is as Good as Mine",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "7a",
+          "title": "Scrabbled Eggs",
+          "topics": [
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "7b",
+          "title": "Scrabbled Eggs",
+          "topics": [
+            "MUTABILITY"
+          ]
+        },
+        {
+          "number": "8",
+          "title": "Leaf it to Me",
+          "topics": [
+            "LISTS",
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sp19-mt1",
+      "name": "Spring 2019 Midterm 1",
+      "problems": [
+        {
+          "number": "1",
+          "title": "What Would Python Display",
+          "topics": [
+            "CONTROL",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Environment Diagram",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Zip It",
+          "topics": [
+            "CONTROL",
+            "HIGHER_ORDER_FUNCTIONS",
+            "SELF_REFERENCE"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa18-mt1",
+      "name": "Fall 2018 Midterm 1",
+      "problems": [
+        {
+          "number": "1",
+          "title": "What Would Python Display",
+          "topics": [
+            "CONTROL",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Factorial",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Also Some Meal",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Getting Rect",
+          "topics": [
+            "CONTROL"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Dig It",
+          "topics": [
+            "CONTROL"
+          ]
+        },
+        {
+          "number": "6a",
+          "title": "This Again?",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS",
+            "SELF_REFERENCE"
+          ]
+        },
+        {
+          "number": "6b",
+          "title": "This Again?",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "su18-mt1",
+      "name": "Summer 2018 Midterm 1",
+      "problems": [
+        {
+          "number": "1",
+          "title": "No Capes!",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Dog Days",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "3a",
+          "title": "List-Man and the Box",
+          "topics": [
+            "LISTS"
+          ]
+        },
+        {
+          "number": "3b",
+          "title": "List-Man and the Box",
+          "topics": [
+            "LISTS"
+          ]
+        },
+        {
+          "number": "3c",
+          "title": "List-Man and the Box",
+          "topics": [
+            "LISTS"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "Book Club",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "Book Club",
+          "topics": [
+            "DATA_ABSTRACTION"
+          ]
+        },
+        {
+          "number": "4c",
+          "title": "Book Club",
+          "topics": [
+            "LISTS"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Repeat Digits",
+          "topics": [
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "Eight Path",
+          "topics": [
+            "TREES"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Sabacc",
+          "topics": [
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "8",
+          "title": "Messenger",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "RECURSION"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sp18-mt1",
+      "name": "Spring 2018 Midterm 1",
+      "problems": [
+        {
+          "number": "1",
+          "title": "Frame of Thrones",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Stranger Frames",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "3a",
+          "title": "Choose Wisely",
+          "topics": [
+            "CONTROL"
+          ]
+        },
+        {
+          "number": "3b",
+          "title": "Choose Wisely",
+          "topics": [
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "3c",
+          "title": "Choose Wisely",
+          "topics": [
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "Editor",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "Editor",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "4c",
+          "title": "Editor",
+          "topics": [
+            "LAMBDAS"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa17-mt1",
+      "name": "Fall 2017 Midterm 1",
+      "problems": [
+        {
+          "number": "1",
+          "title": "I Wonder What Python Would Display",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Environmental Influences",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Triangulate",
+          "topics": [
+            "CONTROL"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "Digital",
+          "topics": [
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "Digital",
+          "topics": [
+            "CONTROL",
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Please Confirm",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "RECURSION"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "su17-mt1",
+      "name": "Summer 2017 Midterm",
+      "problems": [
+        {
+          "number": "1",
+          "title": "Is this name correct?",
+          "topics": [
+            "LAMBDAS",
+            "LISTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Not very creative ...?",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Face Steak",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Instant Noodles",
+          "topics": [
+            "GROWTH"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Bisicle",
+          "topics": [
+            "LINKED_LISTS"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "Hot Cat",
+          "topics": [
+            "LISTS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "8a",
+          "title": "Annoying Dog",
+          "topics": [
+            "CONTROL"
+          ]
+        },
+        {
+          "number": "8b",
+          "title": "Annoying Dog",
+          "topics": [
+            "LAMBDAS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "9",
+          "title": "Temmie Flakes",
+          "topics": [
+            "TREES"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sp17-mt1",
+      "name": "Spring 2017 Midterm 1",
+      "problems": [
+        {
+          "number": "1",
+          "title": "Evaluate These!",
+          "topics": [
+            "LAMBDAS",
+            "LISTS",
+            "RECURSION",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Environmental Policy",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Sequence Checking",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Insert",
+          "topics": [
+            "LINKED_LISTS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "Longest Nondecreasing Suffix",
+          "topics": [
+            "LISTS"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Post's Problem",
+          "topics": [
+            "LISTS",
+            "RECURSION"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa16-mt1",
+      "name": "Fall 2016 Midterm 1",
+      "problems": [
+        {
+          "number": "1",
+          "title": "Exeggcute",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Goldeen State",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "3a",
+          "title": "Countizard",
+          "topics": [
+            "CONTROL",
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "3b",
+          "title": "Countizard",
+          "topics": [
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "Caterepeat",
+          "topics": [
+            "CONTROL",
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "Caterepeat",
+          "topics": [
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "5a",
+          "title": "Multikarp",
+          "topics": [
+            "LAMBDAS",
+            "SELF_REFERENCE"
+          ]
+        },
+        {
+          "number": "5b",
+          "title": "Multikarp",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "su16-mt1",
+      "name": "Summer 2016 Midterm",
+      "problems": [
+        {
+          "number": "1",
+          "title": "Olympic Games",
+          "topics": [
+            "LISTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "The Name Game",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "High Scores",
+          "topics": [
+            "LISTS"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Kerbal Space Program",
+          "topics": [
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "5a",
+          "title": "Katamari",
+          "topics": [
+            "CONTROL",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "5b",
+          "title": "Katamari",
+          "topics": [
+            "LAMBDAS",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "Legend of Zelda",
+          "topics": [
+            "LINKED_LISTS",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "7a",
+          "title": "Game of Thrones",
+          "topics": [
+            "TREES"
+          ]
+        },
+        {
+          "number": "7b",
+          "title": "Game of Thrones",
+          "topics": [
+            "VARS_AND_FUNCTIONS"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sp16-mt1",
+      "name": "Spring 2016 Midterm 1",
+      "problems": [
+        {
+          "number": "1a",
+          "title": "Evaluate This!",
+          "topics": [
+            "LAMBDAS",
+            "LISTS",
+            "VARS_AND_FUNCTIONS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "1b",
+          "title": "Evaluate This!",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LISTS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2a",
+          "title": "Environmental Policy",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "2b",
+          "title": "Environmental Policy",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LAMBDAS",
+            "SELF_REFERENCE"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Going Around in Cycles",
+          "topics": [
+            "CONTROL",
+            "LISTS"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Your Father's Parentheses",
+          "topics": [
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "Amazing",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "RECURSION"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa15-mt1",
+      "name": "Fall 2015 Midterm 1",
+      "problems": [
+        {
+          "number": "1",
+          "title": "Evaluators Gonna Evaluate",
+          "topics": [
+            "LAMBDAS",
+            "RECURSION",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2a",
+          "title": "Environmental Policy",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "2b",
+          "title": "Environmental Policy",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "3a",
+          "title": "Digit Fidget",
+          "topics": [
+            "CONTROL"
+          ]
+        },
+        {
+          "number": "3b",
+          "title": "Digit Fidget",
+          "topics": [
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "3c",
+          "title": "Digit Fidget",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "3d",
+          "title": "Digit Fidget",
+          "topics": [
+            "VARS_AND_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "Zombies!",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "Zombies!",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "su15-mt1",
+      "name": "Summer 2015 Midterm 1",
+      "problems": [
+        {
+          "number": "1",
+          "title": "If (s)he can wield the Hammer ...",
+          "topics": [
+            "LAMBDAS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2a",
+          "title": "\"You'll get lost in there.\" \"C'mon! Think positive!\"",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "VARS_AND_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "2b",
+          "title": "\"You'll get lost in there.\" \"C'mon! Think positive!\"",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "3a,b",
+          "title": "After a long day of Turing tests, you gotta unwind.",
+          "topics": [
+            "CONTROL",
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "3c,e",
+          "title": "After a long day of Turing tests, you gotta unwind.",
+          "topics": [
+            "GROWTH"
+          ]
+        },
+        {
+          "number": "3d",
+          "title": "After a long day of Turing tests, you gotta unwind.",
+          "topics": [
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "A highly intelligent animal.",
+          "topics": [
+            "LISTS",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "A highly intelligent animal.",
+          "topics": [
+            "LISTS"
+          ]
+        },
+        {
+          "number": "4c",
+          "title": "A highly intelligent animal.",
+          "topics": [
+            "CONTROL"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "sp15-mt1",
+      "name": "Spring 2015 Midterm 1",
+      "playlist_links": [
+        "http://youripark.github.io/midterm1sp15.html"
+      ],
+      "problems": [
+        {
+          "number": "1",
+          "title": "In-N-Out",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2a",
+          "title": "Supernatural",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "2b",
+          "title": "Supernatural",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "3a",
+          "title": "You Complete Me",
+          "topics": [
+            "CONTROL"
+          ]
+        },
+        {
+          "number": "3b",
+          "title": "You Complete Me",
+          "topics": [
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "3c",
+          "title": "You Complete Me",
+          "topics": [
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "3d",
+          "title": "You Complete Me",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "RECURSION"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "fa14-mt1",
+      "name": "Fall 2014 Midterm 1",
+      "problems": [
+        {
+          "number": "1a",
+          "title": "World Cup",
+          "topics": [
+            "LAMBDAS",
+            "RECURSION",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "1b",
+          "title": "World Cup",
+          "topics": [
+            "LAMBDAS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Envy, Iron, Mint",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "VARS_AND_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Express Yourself",
+          "topics": [
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "Lambda at Last",
+          "topics": [
+            "LAMBDAS"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "Lambda at Last",
+          "topics": [
+            "RECURSION"
+          ]
+        }
+      ]
+    }
+  ]
+}
