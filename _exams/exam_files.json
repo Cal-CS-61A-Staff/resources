@@ -1,0 +1,752 @@
+{
+  "files": [
+    {
+      "path": "fa14/final/61a-fa14-final.pdf",
+      "sha": "84e15fbdfbdb8b5997befed527dda9bae0ca4ef6d8b7dc3c6e9570b876bebab3"
+    },
+    {
+      "path": "fa14/final/61a-fa14-final_sol.pdf",
+      "sha": "c10beb28388759759b9a6b23e12b2451a64af6c2138c51e210ff406a9d511583"
+    },
+    {
+      "path": "fa14/mt1/61a-fa14-mt1.pdf",
+      "sha": "78a53752248f7525275d1756bd8a714b978d0c42e0d8d3ffb65f4a1ea2b31b63"
+    },
+    {
+      "path": "fa14/mt1/61a-fa14-mt1_sol.pdf",
+      "sha": "fa441091892313f42bdd7a875bf56fb4b1b423e86e36d3bec0e95ae975b78e74"
+    },
+    {
+      "path": "fa14/mt2/61a-fa14-mt2.pdf",
+      "sha": "0060d0ae41417bdeb1066720fc0ddf470521b5d81d98ab46937119aaf68f1542"
+    },
+    {
+      "path": "fa14/mt2/61a-fa14-mt2_sol.pdf",
+      "sha": "b70656767aeeff7e067588a726d8b4918dc327c06af8d330a5b082b5f37ee767"
+    },
+    {
+      "path": "fa15/final/61a-fa15-final.pdf",
+      "sha": "50e328b2f39956b88a069e48520905b229fa48071f6f43e56aa731eb98aafdf6"
+    },
+    {
+      "path": "fa15/final/61a-fa15-final_sol.pdf",
+      "sha": "d3f61df7f5259aa3c890d7a61b4abeae48cd40de7fd2d35f383110832ff79e5e"
+    },
+    {
+      "path": "fa15/mt1/61a-fa15-mt1.pdf",
+      "sha": "c3bff6ea0f81a3ca6974e74fed6b41981e8aa437dc35f80304747d00956264ba"
+    },
+    {
+      "path": "fa15/mt1/61a-fa15-mt1_sol.pdf",
+      "sha": "114b032554b0b845ffed9a9b3ec87ce86692fe5249d81d8dbeca179f1ee34688"
+    },
+    {
+      "path": "fa15/mt2/61a-fa15-mt2.pdf",
+      "sha": "7eb59a76f35b5b86d2ac8b80b60296b20827776a0348d39b451c12bbab198126"
+    },
+    {
+      "path": "fa15/mt2/61a-fa15-mt2_sol.pdf",
+      "sha": "45f8eb139910c7df468b6b42be71fa854f24d82b1386206b89f9ffb04929768a"
+    },
+    {
+      "path": "fa16/final/61a-fa16-final.pdf",
+      "sha": "2bb37701f5f112dcfe01b966953432cf7989eecbe410059d69ea34b39d6a3342"
+    },
+    {
+      "path": "fa16/final/61a-fa16-final_sol.pdf",
+      "sha": "9443877a984c3da42894c1f9b80d0f993cfc081c0f58d9e45fad03bea57f4c2a"
+    },
+    {
+      "path": "fa16/mt1/61a-fa16-mt1.pdf",
+      "sha": "c34754d882a83adcd3e66030541852c9c386af56aa9771cbb04e2bc596ef2d94"
+    },
+    {
+      "path": "fa16/mt1/61a-fa16-mt1_sol.pdf",
+      "sha": "a0c926d2f60aef8171429d18708d212e1ba2a6a7ce21c83fdeb5a65aa0f590d8"
+    },
+    {
+      "path": "fa16/mt2/61a-fa16-mt2.pdf",
+      "sha": "2a949eadfa9f0028b85eb2713e127cc88f8b19d7af1543234f3e81ab4bf3868d"
+    },
+    {
+      "path": "fa16/mt2/61a-fa16-mt2_sol.pdf",
+      "sha": "394ddc8cd991e560011cb2b8fa4931b35456ee6b3a8c8eaab243359c339d3450"
+    },
+    {
+      "path": "fa17/final/61a-fa17-final.pdf",
+      "sha": "e0abd7c76d70cde0f2a0d8a953adc810a4998ac9bd6a35e4027d0c8f1e0ebc61"
+    },
+    {
+      "path": "fa17/final/61a-fa17-final_sol.pdf",
+      "sha": "894713bba725e76dee03a0f23fe93d5767a7d9173a1e67ee39a01672e12ef10d"
+    },
+    {
+      "path": "fa17/mt1/61a-fa17-mt1.pdf",
+      "sha": "8fdd8c17d2fb39567395d800174c75b78ae12fbd15e3e25bd361530ad805d963"
+    },
+    {
+      "path": "fa17/mt1/61a-fa17-mt1_sol.pdf",
+      "sha": "fe51b16b114bb52d1c09d4f1e6b4f7ecac9c0ceff597694583175fc016ce7855"
+    },
+    {
+      "path": "fa17/mt2/61a-fa17-mt2.pdf",
+      "sha": "dc71b7b53794f7c0e534b952457992aaafed40ab552e9c59a46d30a09de749af"
+    },
+    {
+      "path": "fa17/mt2/61a-fa17-mt2_sol.pdf",
+      "sha": "5975996ff153e32dc49780bacd169972380e29bb2d762e447c9cc6c22c1c6cdc"
+    },
+    {
+      "path": "fa18/final/61a-fa18-final.pdf",
+      "sha": "e2205de9626baf5b831c18950a998092cfe0c0188454d62ca6e0e9f1761293a5"
+    },
+    {
+      "path": "fa18/final/61a-fa18-final_sol.pdf",
+      "sha": "01ec6244f12eba5b987e471d8ec2183d9de2e69a809e438dcbb48b1e5eeb1a9b"
+    },
+    {
+      "path": "fa18/mt1/61a-fa18-mt1.pdf",
+      "sha": "f49c0afa689e6e45b04f27a43bc0b2a949b062f6afaad0ef98877fce9be0945c"
+    },
+    {
+      "path": "fa18/mt1/61a-fa18-mt1_sol.pdf",
+      "sha": "31e8699f30033a82dc3f2c34dbfed25ce3a6dceebcec8d4218d8fb30b6fe8833"
+    },
+    {
+      "path": "fa18/mt2/61a-fa18-mt2.pdf",
+      "sha": "00912cc415020630f3a33fa61b9c2682cfdec704f5043d6d7c16dad0e13758f7"
+    },
+    {
+      "path": "fa18/mt2/61a-fa18-mt2_sol.pdf",
+      "sha": "49ef6da35e146b2dc1175230159571d38d2e2fc319af3533fb030ee90f9b2c5e"
+    },
+    {
+      "path": "fa19/final/61a-fa19-final.pdf",
+      "sha": "ce651f74d2e5a26ffcb46ea72416ac093751c91259e4de93f077e92bf823c4d3"
+    },
+    {
+      "path": "fa19/final/61a-fa19-final_sol.pdf",
+      "sha": "da188a46e213e35960c778a69c4fc290905424dc1a7eca5f1cdafe2599742722"
+    },
+    {
+      "path": "fa19/mt1/61a-fa19-mt1.pdf",
+      "sha": "13c5283ffbdcfdf249ea12ef4d7a83cb5dd6e4ac0f27572354ef9cbf124d8900"
+    },
+    {
+      "path": "fa19/mt1/61a-fa19-mt1_sol.pdf",
+      "sha": "11e57916e4ba8a6295e2c64897f59a1ceb28e6fe8603f9792fd1430853d314a6"
+    },
+    {
+      "path": "fa19/mt2/61a-fa19-mt2.pdf",
+      "sha": "fb507da5a0e95e464b0d4a660196e43c24f278aaf46e0887d7976e3bf19b9b87"
+    },
+    {
+      "path": "fa19/mt2/61a-fa19-mt2_sol.pdf",
+      "sha": "4a607a8112942a85141b1e319be29e2acda41c136d4802be511130eb00605dee"
+    },
+    {
+      "path": "fa20/final/61a-fa20-final.pdf",
+      "sha": "3f9de5d7d7f263760eb990e93c2a362d372712bf4412127f6acd046593fbfed3"
+    },
+    {
+      "path": "fa20/final/61a-fa20-final_sol.pdf",
+      "sha": "31bba7620ed2ff348655a8d2dd0ea24120c2a8831fe5890315781ab64ded4670"
+    },
+    {
+      "path": "fa20/mt1/61a-fa20-mt1.pdf",
+      "sha": "c72a282bdf2a258f26c1ea4084868693de2f0e98d090e840877044680b2381e5"
+    },
+    {
+      "path": "fa20/mt1/61a-fa20-mt1_sol.pdf",
+      "sha": "e7bedfc8e7ff8d898e9514b176b1ffacbf286cd5ca2755133d14660e587f08ef"
+    },
+    {
+      "path": "fa20/mt2/61a-fa20-mt2.pdf",
+      "sha": "0257d14d04217fcd918b2ef497e56627d19fe17cd9a5b3c19fedc8da1116c2ae"
+    },
+    {
+      "path": "fa20/mt2/61a-fa20-mt2_sol.pdf",
+      "sha": "c5ee46882398d7d6bbbc6546980e0caf7c10e068b1ac914483188248dac405d7"
+    },
+    {
+      "path": "fa21/final/61a-fa21-final.pdf",
+      "sha": "3262a69894b11c90478956956bfcceffb4c7003505487185a0b325fe97ba67f8"
+    },
+    {
+      "path": "fa21/final/61a-fa21-final_sol.pdf",
+      "sha": "91e99ff6378997448a629d59062cae23ddcf1d2c31b139ce2d33a5ac8ce1e6ec"
+    },
+    {
+      "path": "fa21/mt1/61a-fa21-mt1.pdf",
+      "sha": "8d4499fc9fdfa601438b6e58f1a98b203f6d884ae625a43ba7c095b4c7c7f773"
+    },
+    {
+      "path": "fa21/mt1/61a-fa21-mt1_sol.pdf",
+      "sha": "3ea30bd6586270a6a0d2ea938631170ae716e79756747e1385094a7c445790dc"
+    },
+    {
+      "path": "fa21/mt2/61a-fa21-mt2.pdf",
+      "sha": "ec03a31f7279244f95677deb0f3d11b846e8338bde6a1c0e8509ef7009fa1cc8"
+    },
+    {
+      "path": "fa21/mt2/61a-fa21-mt2_sol.pdf",
+      "sha": "1ef6051d8e4d64a60bf0baafbcc28ce93c8bfa7ebccb3cc2c7ac8cc7cf58fbdd"
+    },
+    {
+      "path": "fa22/final/61a-fa22-final.pdf",
+      "sha": "c9d1a2f4282df9d977807a16fe256a3e66a4308967184adf08ab2c118bbeb5a3"
+    },
+    {
+      "path": "fa22/final/61a-fa22-final_sol.pdf",
+      "sha": "0182834d756ac70c9eae5f220b5be47ffee6e49c3a224919a76ca27a2713a8de"
+    },
+    {
+      "path": "fa22/mt1/61a-fa22-mt1.pdf",
+      "sha": "dec4eccd3f161cd6bc7b1b2be6eadffeac6d65536b22b13e33f4954210d85a9f"
+    },
+    {
+      "path": "fa22/mt1/61a-fa22-mt1_sol.pdf",
+      "sha": "792437fe9e6127ca14c0aa1b840e99761b99be4559eaeec3306a40c1fb6a0237"
+    },
+    {
+      "path": "fa22/mt2/61a-fa22-mt2.pdf",
+      "sha": "3afc0908f2edb1d05cf5f79f1c2d6081849acbd7c7bb537dd198b89bdc6f12b6"
+    },
+    {
+      "path": "fa22/mt2/61a-fa22-mt2_sol.pdf",
+      "sha": "52e1e35cfcc920901d918fde353992e9ff93f95908ca64296a6a8e6e5ab48dfe"
+    },
+    {
+      "path": "fa23/final/61a-fa23-final.pdf",
+      "sha": "ae16dbca82a630b91d123d1f8743f0fcefc4fed9e6099f0db4b306c117b48a13"
+    },
+    {
+      "path": "fa23/final/61a-fa23-final_sol.pdf",
+      "sha": "98fbd7329128d86bcc07c8ea108edc80023209346ff9b0fc1247242bd6a1a92c"
+    },
+    {
+      "path": "fa23/mt1/61a-fa23-mt1.pdf",
+      "sha": "bde53e5b4b56a9df0ec60b60bc026554d7fd93787cc901f91ff8c1249bd41d96"
+    },
+    {
+      "path": "fa23/mt1/61a-fa23-mt1_sol.pdf",
+      "sha": "c00c7a1b1783feb1f80b9d68ea1af36ddd19bb75b0dcb9049e80e71cde4073ca"
+    },
+    {
+      "path": "fa23/mt2/61a-fa23-mt2.pdf",
+      "sha": "bf4a5fa62e2f991e47303ecca6a76338e46d15c278435e692c2b106ed9dc1454"
+    },
+    {
+      "path": "fa23/mt2/61a-fa23-mt2_sol.pdf",
+      "sha": "7f33837d6f8deec632e2288740578159e6040d6855e11f75542e46de938cde50"
+    },
+    {
+      "path": "fa24/final/61a-fa24-final.pdf",
+      "sha": "06469789255173db3face7b73c8b1ea62bb78d11d4cce69446388d4f58453fd5"
+    },
+    {
+      "path": "fa24/final/61a-fa24-final_sol.pdf",
+      "sha": "b9ece7d5bb158ff48c21991ba7eb983ef3ef5baac46a12edd2d84e92c1550391"
+    },
+    {
+      "path": "fa24/mt1/61a-fa24-mt1.pdf",
+      "sha": "922b0723a4ddc1f7ba7c9303c46d81579930844da13438d38a1927b2d6d45fde"
+    },
+    {
+      "path": "fa24/mt1/61a-fa24-mt1_sol.pdf",
+      "sha": "b655e4b9000aa8e69b83932e62cec3f86efa37af511a0cef496c5b71a85f0751"
+    },
+    {
+      "path": "fa24/mt2/61a-fa24-mt2.pdf",
+      "sha": "b42b03072c136506dab8babbcb29d244817fa83ab442ea0712bc01240ce946f9"
+    },
+    {
+      "path": "fa24/mt2/61a-fa24-mt2_sol.pdf",
+      "sha": "1c6e99079de34796f055b262ff2cf832565c790fb4bdffa15879af424ccf074b"
+    },
+    {
+      "path": "fa25/final/61a-fa25-final.pdf",
+      "sha": "01f28582cdfa362bbaed9c9530f3863a6724a25ac73f52f7389bb8f787274ee2"
+    },
+    {
+      "path": "fa25/final/61a-fa25-final_sol.pdf",
+      "sha": "7bffba65ac406ca9bc8962b5dd2a858cfe6a96656435a66256e1491ef26dc105"
+    },
+    {
+      "path": "fa25/mt1/61a-fa25-mt1.pdf",
+      "sha": "30126ee3e55fb395641c8d12dc018158c5733980c09d32e9a6db9c8df97c68a4"
+    },
+    {
+      "path": "fa25/mt1/61a-fa25-mt1_sol.pdf",
+      "sha": "9ba11e5e9b99780f43e07d1df8d6c8075d59952828b74915d524f2d227699a34"
+    },
+    {
+      "path": "fa25/mt2/61a-fa25-mt2.pdf",
+      "sha": "01376ab052c3b1c2107d368c5b06558890d5fc0e27570655253a71e177228eff"
+    },
+    {
+      "path": "fa25/mt2/61a-fa25-mt2_sol.pdf",
+      "sha": "1eb611c47b05f9769710dcefcfb24fc985f4d6603b0652cd933f2a4ff358e7a8"
+    },
+    {
+      "path": "sp15/final/61a-sp15-final.pdf",
+      "sha": "67fad75a7e06b58ee1881968cb47d21cc2e2e9dc5bff24e25f88f070fbfb67fc"
+    },
+    {
+      "path": "sp15/mt1/61a-sp15-mt1.pdf",
+      "sha": "4df22713169eae5a5633af3552ee8b8d33b666191e512540132565a7ea33d73d"
+    },
+    {
+      "path": "sp15/mt2/61a-sp15-mt2.pdf",
+      "sha": "a6509e7ee9c88aef3bee4252686c5ec388bfb35ae1ba2e305ed5da863cfa61e6"
+    },
+    {
+      "path": "sp16/final/61a-sp16-final-soln.pdf",
+      "sha": "d1362d201a8fba7bf0f61e3d22a5c107157913427c691214ee485c5bfccfa8a8"
+    },
+    {
+      "path": "sp16/final/61a-sp16-final.pdf",
+      "sha": "79998beacfd2d1c9a33b18238342423529f81249e4ba181093417a5c8b26e91a"
+    },
+    {
+      "path": "sp16/mt1/61a-sp16-mt1.pdf",
+      "sha": "f058f65f067f4f39a3a215ca6d0be3ded19d3062243d25baef470e6b622fe41b"
+    },
+    {
+      "path": "sp16/mt1/61a-sp16-mt1_sol.pdf",
+      "sha": "d5a64783c8d82a09f84969ca0b646b252c2e709d999acdcdd2009b737b088ee7"
+    },
+    {
+      "path": "sp16/mt2/61a-sp16-mt2.pdf",
+      "sha": "ae795fabc65a26b000f6ba7955c3d1bbd4c4e50f408b93529a9c09065bc22bac"
+    },
+    {
+      "path": "sp17/final/61a-sp17-final.pdf",
+      "sha": "2214a76ef1d494c8ad5342c4498aac35830f4743af44632414b738764ccd08ce"
+    },
+    {
+      "path": "sp17/mt1/61a-sp17-mt1.pdf",
+      "sha": "c9097536d0bf43d60bd2852f0bbfa7f988fe3fb1cfa2e0f44ec3049087542577"
+    },
+    {
+      "path": "sp17/mt1/61a-sp17-mt1_sol.pdf",
+      "sha": "56eaad0a6957c49d9fda238ed5d65ca05e902ef2a8f9f27fe5387a8f6f499745"
+    },
+    {
+      "path": "sp17/mt2/61a-sp17-mt2.pdf",
+      "sha": "1e9e0f272e6ddff082de236eb25fcfd760bd1b03441bc935d479db66dbbc6beb"
+    },
+    {
+      "path": "sp17/mt2/61a-sp17-mt2_sol.pdf",
+      "sha": "b463160afabb09ff02f0f741102a625403b3ace02d3036706198ba95d3824653"
+    },
+    {
+      "path": "sp18/final/61a-sp18-final.pdf",
+      "sha": "37e751b24bd24eb69fcff1bbc5f1c40423cf6d089192268855a0d5deebe04b22"
+    },
+    {
+      "path": "sp18/mt1/61a-sp18-mt1.pdf",
+      "sha": "60be46479ac70112778ad4e58e7aaf14c563f66b58c6c785a4a7ed5fdf75accc"
+    },
+    {
+      "path": "sp18/mt1/61a-sp18-mt1_sol.pdf",
+      "sha": "af6793b61cd0205fae874285e582e5bba020fe81dd8b66adb76cf2f69f186da5"
+    },
+    {
+      "path": "sp18/mt2/61a-sp18-mt2.pdf",
+      "sha": "69f855b5a7f40dfbcab915305600410e0297ce99cc3b8adb22349e2ef033668f"
+    },
+    {
+      "path": "sp18/mt2/61a-sp18-mt2_sol.pdf",
+      "sha": "5569ac6c267a2300c1619ea48b9b0a675ea37cee1354dc5c30720ec39b641223"
+    },
+    {
+      "path": "sp19/final/61a-sp19-final.pdf",
+      "sha": "bff7c210291aefda3f314c1ba889c69b0aa1b01dcf08dda319be412cea6af2cf"
+    },
+    {
+      "path": "sp19/final/61a-sp19-final_sol.pdf",
+      "sha": "306e3a438a1a47cf469fcf44f3ca40cd8d7b6f1146cc4defeb11089e72481fa3"
+    },
+    {
+      "path": "sp19/mt1/61a-sp19-mt1.pdf",
+      "sha": "8ba77fca780c94514042a0506f19d85023546c6f5e7f9c89bc2c277ad2dcd94d"
+    },
+    {
+      "path": "sp19/mt1/61a-sp19-mt1_sol.pdf",
+      "sha": "f5b9f2bcb4d1f95caae0500095b4d04868e46ba3f3da41bcfafc43012f4efc6d"
+    },
+    {
+      "path": "sp19/mt2/61a-sp19-mt2.pdf",
+      "sha": "8815bbccaf34c5353e06e70b32b23c262a31db5a91a66be5cc44559db6eb2e69"
+    },
+    {
+      "path": "sp19/mt2/61a-sp19-mt2_sol.pdf",
+      "sha": "254a37297ccb1a643fd87eb170561f5e34fdaf4bfd7215b2f81ae90fd0984d44"
+    },
+    {
+      "path": "sp20/final/61a-sp20-final.pdf",
+      "sha": "1b56eda60cdffbccc25df4811ef4589a4ba1b59ad2d704f5973c320cd44a8e02"
+    },
+    {
+      "path": "sp20/final/61a-sp20-final_sol.pdf",
+      "sha": "8fba75a8c229fd7e5bc5bc536bd21f66738f096333a0fcb997e5ad5b74a9daff"
+    },
+    {
+      "path": "sp20/mt1/61a-sp20-mt1.pdf",
+      "sha": "791d16a30e64718470dd3c0a6424abcac77d4f35b69dff89b7545f8c665ca308"
+    },
+    {
+      "path": "sp20/mt1/61a-sp20-mt1_sol.pdf",
+      "sha": "74ceb511eb79a6ea8e862248e8ef29cfd6e7927b5d40fb5026f5b99e6899f800"
+    },
+    {
+      "path": "sp20/mt2/61a-sp20-mt2.zip",
+      "sha": "a7d29a19b6281fee2626866e013b150b155e9316b904687e22e66bbf986c57ce"
+    },
+    {
+      "path": "sp20/mt2/61a-sp20-mt2_sol.zip",
+      "sha": "34d76314f8779122094d54864bd78a8d6fa72aa4a736872030f2ae7e9463aa21"
+    },
+    {
+      "path": "sp21/final/61a-sp21-final.pdf",
+      "sha": "bd569f89ff576f677502a43a68eb7d85fc8ca3a52e06c66571377044119298e6"
+    },
+    {
+      "path": "sp21/final/61a-sp21-final_sol.pdf",
+      "sha": "9a7aca8902d3686f69fce0a2a9d5182e4de4d38ac4159448697912e98efcebcb"
+    },
+    {
+      "path": "sp21/mt1/61a-sp21-mt1.pdf",
+      "sha": "5bc1857060b6c37955d0329c69f31eb9d4d9606e1c78121f6b0571ad0f148aed"
+    },
+    {
+      "path": "sp21/mt1/61a-sp21-mt1_sol.pdf",
+      "sha": "3592483b15875887e39a7deef44e9f7826cf4098b7d75528881651ae1fab618b"
+    },
+    {
+      "path": "sp21/mt2/61a-sp21-mt2.pdf",
+      "sha": "a6243fa1b771e71c2a942059b6681f12c708b6b8720a5c809c9ca144e1ec4227"
+    },
+    {
+      "path": "sp21/mt2/61a-sp21-mt2_sol.pdf",
+      "sha": "b4bf3da69c1b6c16ccaabb9de1e5b769b637bf30d3e5a808c8ec94b03321fb9e"
+    },
+    {
+      "path": "sp22/final/61a-sp22-final.pdf",
+      "sha": "27676d794e8df50479ef991210ac5baf8814d069731fc7d8ee90d4a95f943034"
+    },
+    {
+      "path": "sp22/final/61a-sp22-final_sol.pdf",
+      "sha": "31909549848ce93df4f4c256eb775ad6da148883ec42c4adc9c47aec172e69c8"
+    },
+    {
+      "path": "sp22/mt1/61a-sp22-mt1.pdf",
+      "sha": "d14516fa9ecb863316c2e3c345d3aff2bb1227f5d1a469854355f1e2ae8c38c3"
+    },
+    {
+      "path": "sp22/mt1/61a-sp22-mt1_sol.pdf",
+      "sha": "696041759d23d688511c449b4e893a946bda32bf592e7d32cf001a9002c501ea"
+    },
+    {
+      "path": "sp22/mt2/61a-sp22-mt2.pdf",
+      "sha": "88fa35bcbde3a8d1eb32918be9036df13bf302aaeb85e68dba481e2937b93fa5"
+    },
+    {
+      "path": "sp22/mt2/61a-sp22-mt2_sol.pdf",
+      "sha": "6942b4f2cd5fa35aee9c1833349fdcce31eb67e51a3cc33cefc886c17cb29988"
+    },
+    {
+      "path": "sp23/final/61a-sp23-final.pdf",
+      "sha": "c36d8eb65460c5dcc4c598fa0012c83a5db68fd3047dd2b8854c0525fe9b28fa"
+    },
+    {
+      "path": "sp23/final/61a-sp23-final_sol.pdf",
+      "sha": "83ffdc44f073d81e218e993a895e04762d3a8eaadd04ac30726be8d908b62753"
+    },
+    {
+      "path": "sp23/mt1/61a-sp23-mt1.pdf",
+      "sha": "1dfe30d667724d7a1a79fb8a873d09539452f0ca16047fa1c53f581bbca2d9cf"
+    },
+    {
+      "path": "sp23/mt1/61a-sp23-mt1_sol.pdf",
+      "sha": "7aa432137d8dd97d753963efe6fc2db8a4c62aad5826403eb08473854bd33ae2"
+    },
+    {
+      "path": "sp23/mt2/61a-sp23-mt2.pdf",
+      "sha": "a8e5835c8dd0f87e667386581fb697a99eb6b73042bf9cce1a28931c17dccab1"
+    },
+    {
+      "path": "sp23/mt2/61a-sp23-mt2_sol.pdf",
+      "sha": "3fd767a05c7357920f99a740fb8f026eeadf295d4ee3a9c6353fed98ced56906"
+    },
+    {
+      "path": "sp24/final/61a-sp24-final.pdf",
+      "sha": "175e41814bc175236972c32a26e090d879a28618ce5a012c2f21d613e4220a32"
+    },
+    {
+      "path": "sp24/final/61a-sp24-final_sol.pdf",
+      "sha": "20a74b2004e3462acf8e1b599acf281044a0d53f8657b5cec31e1cfd2369995e"
+    },
+    {
+      "path": "sp24/mt1/61a-sp24-mt1.pdf",
+      "sha": "4604069f55b097c673eaa3f7d63775db718f9077b6a66a6388b7e27e021b8c46"
+    },
+    {
+      "path": "sp24/mt1/61a-sp24-mt1_sol.pdf",
+      "sha": "fc57490264bf63a8303b28efdb0c266acb5648722cf14b65a147f37b158e81f9"
+    },
+    {
+      "path": "sp24/mt2/61a-sp24-mt2.pdf",
+      "sha": "095c49697f0b8f7655281bb190bab94ec6a67de7ec8814c90fa22a89e7168c83"
+    },
+    {
+      "path": "sp24/mt2/61a-sp24-mt2_sol.pdf",
+      "sha": "03e072c7090047d90fe525fa3971abd35fc269858de055b52d387696a127ad7f"
+    },
+    {
+      "path": "sp25/final/61a-sp25-final.pdf",
+      "sha": "34f9e56abe76235d3befc6b683e65846c3cd67a99f2627a6289dbaf4a6207adb"
+    },
+    {
+      "path": "sp25/final/61a-sp25-final_sol.pdf",
+      "sha": "055164b6cfbea7d63468705595e828a18257e187732719442ecd7a648ab063d6"
+    },
+    {
+      "path": "sp25/mt1/61a-sp25-mt1.pdf",
+      "sha": "9260104ed5ba958df27cae48e18e4bbb07e3505843e9ae79d071a8594b16e6b4"
+    },
+    {
+      "path": "sp25/mt1/61a-sp25-mt1_sol.pdf",
+      "sha": "561f10efde6ec9ebd933e3a8a8a66b6d790b4c9e58ad9db51e1903139a9c3c93"
+    },
+    {
+      "path": "sp25/mt2/61a-sp25-mt2.pdf",
+      "sha": "1cd81545533cc9d5794788fc27df55c8b19c7488d9aa950e24e1b895e8703131"
+    },
+    {
+      "path": "sp25/mt2/61a-sp25-mt2_sol.pdf",
+      "sha": "b4a50eb941d901179c7a79c06cc3ccafce6dec4ae7a463d71b1dde749634481a"
+    },
+    {
+      "path": "sp26/final/61a-sp26-final.pdf",
+      "sha": "d6b15e95bbb81f9c4daba07d8f1af6c9068c9ff212574961e423c3e06407e569"
+    },
+    {
+      "path": "sp26/final/61a-sp26-final_sol.pdf",
+      "sha": "91728989a7738aacb5e689ed4f6fdfdb091867c805d8a3ff4aed1ea663428b87"
+    },
+    {
+      "path": "sp26/mt1/61a-sp26-midterm.pdf",
+      "sha": "93401502a9b1a0ca25a8d465b61f1346ea657af6d0410f1c43d637da4287b5d0"
+    },
+    {
+      "path": "sp26/mt1/61a-sp26-midterm_sol.pdf",
+      "sha": "7042507a2759e8c312b471ce7f690052195247c924f910e5d15a27c69b563a90"
+    },
+    {
+      "path": "sp26/mt2/61a-sp26-final.pdf",
+      "sha": "d6b15e95bbb81f9c4daba07d8f1af6c9068c9ff212574961e423c3e06407e569"
+    },
+    {
+      "path": "sp26/mt2/61a-sp26-final_sol.pdf",
+      "sha": "91728989a7738aacb5e689ed4f6fdfdb091867c805d8a3ff4aed1ea663428b87"
+    },
+    {
+      "path": "sp26/mt2/61a-sp26-mt2.pdf",
+      "sha": "93401502a9b1a0ca25a8d465b61f1346ea657af6d0410f1c43d637da4287b5d0"
+    },
+    {
+      "path": "sp26/mt2/61a-sp26-mt2_sol.pdf",
+      "sha": "7042507a2759e8c312b471ce7f690052195247c924f910e5d15a27c69b563a90"
+    },
+    {
+      "path": "su15/final/61a-su15-mt2-sol.pdf",
+      "sha": "a3adb55e03dacaf8456f0f1232dba704ff623cef501750a723f4d217908fce58"
+    },
+    {
+      "path": "su15/final/61a-su15-mt2.pdf",
+      "sha": "511f14eb616c19ec4afeadefeaf2c0f69782e35e94ad6364644dfcfdccd5141c"
+    },
+    {
+      "path": "su15/mt1/61a-su15-midterm.pdf",
+      "sha": "6c0afdf6066fb6c7d072c8c83a7d74df5b3303d42f7978ac62a8a8c384cd486d"
+    },
+    {
+      "path": "su15/mt1/61a-su15-midterm_sol.pdf",
+      "sha": "9ee8d57dbd52120f8fe5095415a07ba4f4d11ac313f567fd337b81e95bdfc8f2"
+    },
+    {
+      "path": "su16/final/61a-su16-final.pdf",
+      "sha": "914c557b830351c6fb2e42b86ef726d43ee99eb612ecc8060eb41a43b1e77b25"
+    },
+    {
+      "path": "su16/mt1/61a-su16-midterm.pdf",
+      "sha": "ace8baa65f90b43bf2392a8dc16bc310d57e43118c7e56a47c60ce3ad298781d"
+    },
+    {
+      "path": "su16/mt1/61a-su16-midterm_sol.pdf",
+      "sha": "72783108bd26e09150868bbd40acd36c3b6a332ede26270b14580f71f21c3675"
+    },
+    {
+      "path": "su17/final/61a-su17-final-sol.pdf",
+      "sha": "802323309868c928539688c12e97459154d13f6becf0e6d62dd6b07eb410c36a"
+    },
+    {
+      "path": "su17/final/61a-su17-final.pdf",
+      "sha": "9b2de216c733c7abc287e125fed9085c88e854382d2e78e3490c8ceec6b1ffda"
+    },
+    {
+      "path": "su17/mt1/61a-su17-midterm.pdf",
+      "sha": "ade9a0e90d6d7e9b15b1978f8d382015106bb7a20dd56f3d0caaab1f395cf0aa"
+    },
+    {
+      "path": "su17/mt1/61a-su17-midterm_sol.pdf",
+      "sha": "971d0b75ab25ed2c4413f6623baf2fcd22a64c09788799d194697f4640eb6e52"
+    },
+    {
+      "path": "su18/final/61a-su18-final-sol.pdf",
+      "sha": "bd37ecdff0579fa69becffbbcfa1b65a08bf07e5c3ca07ae9f508f7114a30f1a"
+    },
+    {
+      "path": "su18/final/61a-su18-final.pdf",
+      "sha": "f61b0303f108fa17751918a34d2c57bc0c69cd4aa996702040441d19e6085c05"
+    },
+    {
+      "path": "su18/mt1/61a-su18-midterm.pdf",
+      "sha": "e46f9186f9761bc66d0cb4b9df388308c5453debce18745dddfce67466a77aad"
+    },
+    {
+      "path": "su18/mt1/61a-su18-midterm_sol.pdf",
+      "sha": "8bfa8dc0726c4da6a76dcc930c341366b1ba3754776405446e51b5755044e65f"
+    },
+    {
+      "path": "su19/final/61a-su19-final.pdf",
+      "sha": "7475cc0e9bf8894d9278803262b28a9d2d23deadbb223fa34fb9a7ec781039ef"
+    },
+    {
+      "path": "su19/final/61a-su19-final_sol.pdf",
+      "sha": "1b52fbd0e2337e4d692a4b2388d836b3133f0dd17c5e0ff899c9ead68d021db3"
+    },
+    {
+      "path": "su19/mt1/61a-su19-midterm.pdf",
+      "sha": "60760d47db64e0957926904b0f4899720d58496cc0e897e9548ab6c1bb41adbf"
+    },
+    {
+      "path": "su19/mt1/61a-su19-midterm_sol.pdf",
+      "sha": "d673d5ba17aeb17188c777594d9a588c6fc429ee186aaf3c03b4fa4d5cf7dcad"
+    },
+    {
+      "path": "su20/final/61a-su20-mt2.zip",
+      "sha": "5dcb2d148d4782823dfabd22f0d7c0f8508fcee63f2b16909911753c9940c4c9"
+    },
+    {
+      "path": "su20/final/61a-su20-mt2_sol.zip",
+      "sha": "e0fa57cc4694aad88377e032c17d379892a2052a24ab8c4b26c3571e1ae9eb8d"
+    },
+    {
+      "path": "su20/mt1/61a-su20-midterm.zip",
+      "sha": "2aa4c2c4ac5e78f0a56993f2d0f21b5cadbd7e515d0bdc0fb18694923bfbbeed"
+    },
+    {
+      "path": "su20/mt1/61a-su20-midterm_sol.zip",
+      "sha": "ef3765c2213c6264e1d785097a82424e3a70d7bc7301a55dee9e257bf3cb996f"
+    },
+    {
+      "path": "su21/final/61a-su21-midterm.pdf",
+      "sha": "16b9c6ed7a18cc3093f78428e6278de2ed06f44848c71a1b85774fea9aa01b05"
+    },
+    {
+      "path": "su21/final/61a-su21-midterm_sol.pdf",
+      "sha": "0cd4dc1294974a9d162c9a0afbd60452ab28b5990df09f17ca7c06a65a9e4458"
+    },
+    {
+      "path": "su21/mt1/61a-su21-midterm.pdf",
+      "sha": "a4d90b6b7c8af0141f2da212367a097485a5a06d22ee90e17c5c2ca515ba5b5d"
+    },
+    {
+      "path": "su21/mt1/61a-su21-midterm_sol.pdf",
+      "sha": "1c44555d9154b4c55e690278c7931a151ab8bad34726b02537eb9e5c23539b00"
+    },
+    {
+      "path": "su22/final/61a-su22-final.pdf",
+      "sha": "cdc46c8cd734eef4e04e450841cc6c058304f2e0280abd16815edbab5e05f4bd"
+    },
+    {
+      "path": "su22/final/61a-su22-final_sol.pdf",
+      "sha": "53703a931df0039fe5cfa406b04946c98b503969e6d3e94b762021808f1534d8"
+    },
+    {
+      "path": "su22/mt1/61a-su22-midterm.pdf",
+      "sha": "73b2fa89eb9560f1d1af2e15fe5257964b61ca3ab8efc3eea1da6b052e0e3adc"
+    },
+    {
+      "path": "su22/mt1/61a-su22-midterm_sol.pdf",
+      "sha": "98dc06131b55e35bcec002138ff2d68849e573ce07fce8dfca0d0291c775c751"
+    },
+    {
+      "path": "su23/final/61a-su23-final.pdf",
+      "sha": "1ff0588d44c1d1b4618caa7c39953a3526ac86757743f12d8e689ebe25b2a390"
+    },
+    {
+      "path": "su23/final/61a-su23-final_sol.pdf",
+      "sha": "1e9c907b6d0d0586f72e6794935e874353f693811ad46785420468a8c6223dc1"
+    },
+    {
+      "path": "su23/mt1/61a-su23-midterm.pdf",
+      "sha": "75705b0129eaa0e640d6aad4dfa997ccfd0eae1161b609b733450cc44822832f"
+    },
+    {
+      "path": "su23/mt1/61a-su23-midterm_sol.pdf",
+      "sha": "675ef2535a646fe0bd466537ea937588bc1224181c6450d5197b16278bd06ed3"
+    },
+    {
+      "path": "su24/final/61a-su24-final.pdf",
+      "sha": "173256840a6d41770659fd4bcc673b5dec0c04957f5ffd765a1c85d4e23a5270"
+    },
+    {
+      "path": "su24/final/61a-su24-final_sol.pdf",
+      "sha": "ac5db879e53ff12c3a2b399d6f3affc96ef9d9ef01026cbaac88e26efc964713"
+    },
+    {
+      "path": "su24/mt1/61a-su24-midterm.pdf",
+      "sha": "1b6b119b0cfb86500fec17a1c291cc3d96a2389e34df2b1309ee9ff8ea4eb4d3"
+    },
+    {
+      "path": "su24/mt1/61a-su24-midterm_sol.pdf",
+      "sha": "6a3e67c643058a6139b6065193ec62dbb6543352c105c8d9c31a60a30e76c89e"
+    },
+    {
+      "path": "su25/final/61a-su25-final.pdf",
+      "sha": "1c6fed209081a18b3631feea0bc0af4b5379e97230dac77eb9e372fb7c30c595"
+    },
+    {
+      "path": "su25/final/61a-su25-final_sol.pdf",
+      "sha": "7fbb5a719502d526de751aa50a4506d31afbe1431b89a3422616661a910c74b1"
+    },
+    {
+      "path": "su25/mt1/61a-su25-midterm.pdf",
+      "sha": "d6e22f839136ae4a5341efd26712bc86c7394b38279b1422cc2298e9d46d14c2"
+    },
+    {
+      "path": "su25/mt1/61a-su25-midterm_sol.pdf",
+      "sha": "876c367dbcbc0308dc2ad9df61aec66612292998add62837bb22ed2aa44700ca"
+    },
+    {
+      "path": "su26/final/61a-su26-final.pdf",
+      "sha": "839223637589c4a4ddcaffdd4cc04da3eb4f6b0748f4f60761edbd2b37fa2b8d"
+    },
+    {
+      "path": "su26/final/61a-su26-final_sol.pdf",
+      "sha": "b3408d01dd448d30e9d6787be9cad9475de52c12a7c43dc7329131dfed48e1fa"
+    },
+    {
+      "path": "su26/mt1/61a-su26-midterm.pdf",
+      "sha": "69c0562c820fbef129ba2ac9664ab0a2c7fefd8fa8a2838880e73a7bd2250e82"
+    },
+    {
+      "path": "su26/mt1/61a-su26-midterm_sol.pdf",
+      "sha": "089a477cc721509f8ea9d8f91b84300d109da46555d15c8482251c155a888470"
+    }
+  ]
+}
