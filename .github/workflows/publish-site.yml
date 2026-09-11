@@ -1,0 +1,52 @@
+# Publish resources into the course site whenever the source repository
+# changes.  The site checkout is pushed with the same deploy-key pattern used
+# by assignments/.github/workflows/publish-site.yml.
+name: publish-site
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: publish-site
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check out the course site
+        uses: actions/checkout@v4
+        with:
+          repository: Cal-CS-61A-Staff/fa26
+          ssh-key: ${{ secrets.FA26_DEPLOY_KEY }}
+          path: site
+
+      - name: Sync resources into the course site
+        run: python3 scripts/publish_site.py site
+
+      - name: Commit and push the site update
+        run: |
+          git -C site config user.name "resources-publish[bot]"
+          git -C site config user.email "cs61a-software@berkeley.edu"
+          git -C site add assets/resources _data/study_guides.yml
+          if git -C site diff --cached --quiet; then
+            echo "No site changes to publish."
+            exit 0
+          fi
+          git -C site commit -m "publish: resources"
+          for attempt in 1 2 3; do
+            if git -C site pull --rebase origin main && git -C site push origin main; then
+              exit 0
+            fi
+            git -C site rebase --abort || true
+            echo "Push attempt $attempt failed; retrying..."
+          done
+          exit 1
