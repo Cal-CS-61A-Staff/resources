@@ -2,6 +2,47 @@
   "description": "CS 61A mt1 exams sorted newest first. Playlist and video links are stored per exam; every problem lists its topics.",
   "exams": [
     {
+      "label": "fa26-mt1",
+      "name": "Fall 2026 Midterm 1",
+      "playlist_links": [
+        "https://www.youtube.com/playlist?list=PLF846nogz_Qg"
+      ],
+      "problems" : [
+        {
+          "number": "1",
+          "title": "What Would Python Display?",
+          "topics": [
+            "LAMBDAS",
+            "WWPD",
+            "CONTROL"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "New Print",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "HIGHER_ORDER_FUNCTIONS"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Long Odds",
+          "topics": [
+            "CONTROL"
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Space Between",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LAMBDAS"
+          ]
+        }
+      ]
+    },
+    {
       "label": "su26-mt1",
       "name": "Summer 2026 Midterm 1",
       "playlist_links": [
