@@ -8,8 +8,8 @@ title: CS 61A Resources
 Past CS 61A exams, solutions, and study guides. To browse them, visit the
 Resources page of a course website:
 
-- [CS 61A Resources](https://cs61a.org/fa26/resources/)
-- [Data C88C Resources](https://c88c.org/fa26/resources/)
+- [CS 61A Fall 2026 Resources](https://cs61a.org/fa26/resources/)
+- [Data C88C Fall 2026 Resources](https://c88c.org/fa26/resources/)
 
 ## File URLs
 
