@@ -1,0 +1,14 @@
+# GitHub Pages serves this repository at https://cs61a.org/resources/.
+title: CS 61A Resources
+description: Past CS 61A exams, solutions, and study guides.
+theme: jekyll-theme-primer
+
+# Jekyll skips underscore directories; publish the exam indexes that the course
+# sites' Resources pages fetch.
+include:
+  - _exams
+
+exclude:
+  - README.md
+  - _exams/README.md
+  - scripts
