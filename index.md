@@ -17,7 +17,8 @@ Resources page of a course website:
   e.g. [fa25/mt1/61a-fa25-mt1.pdf](fa25/mt1/61a-fa25-mt1.pdf)
 - Solutions: the same path ending in `_sol.pdf`, e.g.
   [fa25/mt1/61a-fa25-mt1_sol.pdf](fa25/mt1/61a-fa25-mt1_sol.pdf)
-- Study guides: `https://cs61a.org/resources/guides/`
+- Study guides: `https://cs61a.org/resources/guides/<semester>/<guide>.pdf`, e.g.
+  [guides/fa26/61a-mt1-study-guide.pdf](guides/fa26/61a-mt1-study-guide.pdf)
 - Exam indexes: `https://cs61a.org/resources/_exams/` (`exam_files.json`,
   `in_scope.json`, and `exam_problems_{mt1,mt2,final}.json`)
 
