@@ -10,7 +10,9 @@ Resources pages link to the files there and fetch the exam indexes from there.
   `fa25/mt1/61a-fa25-mt1.pdf` and `fa25/mt1/61a-fa25-mt1_sol.pdf`, served at
   `https://cs61a.org/resources/fa25/mt1/61a-fa25-mt1.pdf`. Summer offerings
   with a single midterm name it `61a-<semester>-midterm.pdf`.
-- `guides/` — study guides, served at `https://cs61a.org/resources/guides/`.
+- `guides/<semester>/` — that semester's study guides, e.g.
+  `guides/fa26/61a-mt1-study-guide.pdf`, served at
+  `https://cs61a.org/resources/guides/fa26/61a-mt1-study-guide.pdf`.
 - `_exams/` — exam-problem indexes by topic and `exam_files.json`, the file
   manifest (see its README). `_config.yml` includes this directory in the site.
 - `scripts/` — maintenance scripts (not published).
