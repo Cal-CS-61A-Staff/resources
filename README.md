@@ -13,6 +13,9 @@ Resources pages link to the files there and fetch the exam indexes from there.
 - `guides/<semester>/` — that semester's study guides, e.g.
   `guides/fa26/61a-mt1-study-guide.pdf`, served at
   `https://cs61a.org/resources/guides/fa26/61a-mt1-study-guide.pdf`.
+- `guides/src/<semester>/` — Typst sources for that semester's study guides,
+  plus renders of guides still in progress. `_config.yml` excludes this
+  directory from the site.
 - `_exams/` — exam-problem indexes by topic and `exam_files.json`, the file
   manifest (see its README). `_config.yml` includes this directory in the site.
 - `scripts/` — maintenance scripts (not published).
@@ -24,3 +27,12 @@ Resources pages link to the files there and fetch the exam indexes from there.
 2. Run `python3 scripts/generate_exam_files.py` to update `_exams/exam_files.json`.
 3. Add the exam's problems to `_exams/exam_problems_<kind>.json`.
 4. Commit and push to `main`; GitHub Pages republishes the site.
+
+## Publishing a study guide
+
+1. Edit its source, e.g. `guides/src/fa26/61a-mt2-study-guide.typ`.
+2. Render it into the published directory:
+   `typst compile guides/src/fa26/61a-mt2-study-guide.typ guides/fa26/61a-mt2-study-guide.pdf`
+   (a guide that isn't ready yet renders beside its source instead).
+3. Commit and push to `main`, then list the guide in the course website's
+   `_data/study_guides.yml`.
