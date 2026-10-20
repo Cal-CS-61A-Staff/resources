@@ -12,7 +12,8 @@ Resources pages link to the files there and fetch the exam indexes from there.
   with a single midterm name it `61a-<semester>-midterm.pdf`.
 - `guides/<semester>/` — that semester's study guides, e.g.
   `guides/fa26/61a-mt1-study-guide.pdf`, served at
-  `https://cs61a.org/resources/guides/fa26/61a-mt1-study-guide.pdf`.
+  `https://cs61a.org/resources/guides/fa26/61a-mt1-study-guide.pdf`, and
+  `guides.json`, the list of published guides that the course website shows.
 - `guides/src/<semester>/` — Typst sources for that semester's study guides,
   plus renders of guides still in progress. `_config.yml` excludes this
   directory from the site.
@@ -34,5 +35,8 @@ Resources pages link to the files there and fetch the exam indexes from there.
 2. Render it into the published directory:
    `typst compile guides/src/fa26/61a-mt2-study-guide.typ guides/fa26/61a-mt2-study-guide.pdf`
    (a guide that isn't ready yet renders beside its source instead).
-3. Commit and push to `main`, then list the guide in the course website's
-   `_data/study_guides.yml`.
+3. Add the guide's title and file name to `guides/<semester>/guides.json`.
+   The CS 61A course website's Resources page fetches that file and lists
+   its guides in order.
+4. Commit and push to `main`; the guide appears on the course website once
+   GitHub Pages republishes this site.
