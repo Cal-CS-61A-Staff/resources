@@ -532,8 +532,8 @@
     A tuple can't change, but a list inside it can.
     #py(```
     >>> t = (1, [2])
-    >>> t.append(3)
-    Error: tuple has no append
+    >>> t.append(3) # no append
+    AttributeError
     >>> t[1].append(3)
     >>> t
     (1, [2, 3])
@@ -773,14 +773,15 @@
     12
     ```),
     note(tail: left)[#sub[Method invocation:] one object before the dot, other arguments within parentheses],
-    py(```
+    grid.cell(colspan: 2, py(```
     >>> f = a.deposit
     >>> f(10)
     22
     >>> a.balance
     22
-    ```),
-    [],
+    >>> a.balance()      # int not callable
+    TypeError
+    ```)),
   )
 ]
 
