@@ -2,6 +2,96 @@
   "description": "CS 61A mt2 exams sorted newest first. Playlist and video links are stored per exam; every problem lists its topics.",
   "exams": [
     {
+      "label": "fa26-mt2",
+      "name": "Fall 2026 Midterm 3",
+      "playlist_links": [],
+      "problems": [
+        {
+          "number": "1",
+          "title": "What Would Python Display?",
+          "topics": [
+            "GENERATORS",
+            "HIGHER_ORDER_FUNCTIONS",
+            "ITERATORS",
+            "WWPD"
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Under the Limit",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LISTS",
+            "MUTABILITY"
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Spooky Memoize",
+          "topics": [
+            "HIGHER_ORDER_FUNCTIONS",
+            "LISTS",
+            "MUTABILITY"
+          ]
+        },
+        {
+          "number": "4a",
+          "title": "Flip Sum",
+          "topics": [
+            "LISTS",
+            "RECURSION",
+            "SEQUENCES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "4b",
+          "title": "Flip Sum",
+          "topics": [
+            "LINKED_LISTS",
+            "RECURSION"
+          ]
+        },
+        {
+          "number": "5",
+          "title": "TreeDoh",
+          "topics": [
+            "RECURSION",
+            "TREES",
+            "TREE_RECURSION"
+          ]
+        },
+        {
+          "number": "6",
+          "title": "Tracker",
+          "topics": [
+            "INHERITANCE",
+            "ITERATORS",
+            "MUTABILITY",
+            "OBJECTS"
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Box and Pointer",
+          "topics": [
+            "ENVIRONMENT_DIAGRAMS",
+            "LISTS",
+            "MUTABILITY"
+          ]
+        },
+        {
+          "number": "8",
+          "title": "Count Boxes",
+          "topics": [
+            "LISTS",
+            "MUTABILITY",
+            "RECURSION"
+          ]
+        }
+      ]
+    },
+    {
       "label": "sp26-mt2",
       "name": "Spring 2026 Midterm",
       "playlist_links": [
